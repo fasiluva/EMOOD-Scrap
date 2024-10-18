@@ -1,0 +1,185 @@
+* El formato de cada consulta de un producto en particular es: 
+
+https://www.emoodmarket.com/productos/{nombre del producto sin espacios ni ñ}/
+
+Ejemplo: 
+
+https://www.emoodmarket.com/productos/paleta-royal-padel-cross-light-para-mujer-negra/
+https://www.emoodmarket.com/productos/teclado-genius-kb-102-smart-usb-black-espanol/
+
+
+* En la pagina de categorias, tenemos que cada producto tiene los siguientes datos: 
+
+[{
+    "product_id": 236960773,
+    "price_short": "$79.999,00",
+    "price_long": "$79.999,00 ARS",
+    "price_number": 79999,
+    "price_number_raw": 7999900,
+    "price_with_payment_discount_short": "$67.999,15",
+    "compare_at_price_short": "$107.999,00",
+    "compare_at_price_long": "$107.999,00 ARS",
+    "compare_at_price_number": 107999,
+    "stock": 1,
+    "sku": "ME-HR2129-00",
+    "available": True,
+    "contact": False,
+    "option0": None,
+    "option1": None,
+    "option2": None,
+    "id": 1039618275,
+    "image": 743514231,
+    "image_url": "//acdn.mitiendanube.com/stores/004/429/908/products/185_64eca3361b969-eb9530acda77fe9c7d17289352386333-1024-1024.webp",
+    "installments_data": {
+        "Mercado Pago": {
+            "1": {
+                "installment_value": 79999,
+                "installment_value_cents": 7999900,
+                "interest": 0,
+                "total_value": 79999,
+                "without_interests": True
+            },
+            "2": {
+                "installment_value": 47335.4083,
+                "installment_value_cents": 4733540.83,
+                "interest": 0.1834,
+                "total_value": 94670.8166,
+                "without_interests": False
+            },
+            "3": {
+                "installment_value": 26666.333333333,
+                "installment_value_cents": 2666633.3333333,
+                "interest": 0,
+                "total_value": 79999,
+                "without_interests": True
+            },
+            "6": {
+                "installment_value": 13333.166666667,
+                "installment_value_cents": 1333316.6666667,
+                "interest": 0,
+                "total_value": 79999,
+                "without_interests": True
+            },
+            "9": {
+                "installment_value": 8888.7777777778,
+                "installment_value_cents": 888877.77777778,
+                "interest": 0,
+                "total_value": 79999,
+                "without_interests": True
+            },
+            "12": {
+                "installment_value": 6666.5833333333,
+                "installment_value_cents": 666658.33333333,
+                "interest": 0,
+                "total_value": 79999,
+                "without_interests": True
+            }
+        },
+        "Nave": {
+            "1": {
+                "installment_value": 79999,
+                "installment_value_cents": 7999900,
+                "interest": 0,
+                "total_value": 79999,
+                "without_interests": True
+            }
+        },
+        "Pagos Personalizados": {
+            "1": {
+                "installment_value": 79999,
+                "installment_value_cents": 7999900,
+                "interest": 0,
+                "total_value": 79999,
+                "without_interests": True
+            }
+        }
+    }
+}]
+
+
+product_data = [{
+    "product_id": 211256419,
+    "price_short": "$32.999,00",
+    "price_long": "$32.999,00 ARS",
+    "price_number": 32999,
+    "price_number_raw": 3299900,
+    "price_with_payment_discount_short": "$28.049,15",
+    "compare_at_price_short": "$44.549,00",
+    "compare_at_price_long": "$44.549,00 ARS",
+    "compare_at_price_number": 44549,
+    "stock": 0,
+    "sku": "ME-DPP750",
+    "available": False,
+    "contact": False,
+    "option0": None,
+    "option1": None,
+    "option2": None,
+    "id": 893296732,
+    "image": 722889345,
+    "image_url": "//acdn.mitiendanube.com/stores/004/429/908/products/185_663a6eb729a03-ac1902bb87b193da6b17261448564758-1024-1024.webp",
+    "installments_data": {
+        "Mercado Pago": {
+            "1": {
+                "installment_value": 32999,
+                "installment_value_cents": 3299900,
+                "interest": 0,
+                "total_value": 32999,
+                "without_interests": True
+            },
+            "2": {
+                "installment_value": 19525.5083,
+                "installment_value_cents": 1952550.83,
+                "interest": 0.1834,
+                "total_value": 39051.0166,
+                "without_interests": False
+            },
+            "3": {
+                "installment_value": 10999.666666667,
+                "installment_value_cents": 1099966.6666667,
+                "interest": 0,
+                "total_value": 32999,
+                "without_interests": True
+            },
+            "6": {
+                "installment_value": 5499.8333333333,
+                "installment_value_cents": 549983.33333333,
+                "interest": 0,
+                "total_value": 32999,
+                "without_interests": True
+            },
+            "9": {
+                "installment_value": 3666.5555555556,
+                "installment_value_cents": 366655.55555556,
+                "interest": 0,
+                "total_value": 32999,
+                "without_interests": True
+            },
+            "12": {
+                "installment_value": 2749.9166666667,
+                "installment_value_cents": 274991.66666667,
+                "interest": 0,
+                "total_value": 32999,
+                "without_interests": True
+            }
+        },
+        "Nave": {
+            "1": {
+                "installment_value": 32999,
+                "installment_value_cents": 3299900,
+                "interest": 0,
+                "total_value": 32999,
+                "without_interests": True
+            }
+        },
+        "Pagos Personalizados": {
+            "1": {
+                "installment_value": 32999,
+                "installment_value_cents": 3299900,
+                "interest": 0,
+                "total_value": 32999,
+                "without_interests": True
+            }
+        }
+    }
+}]
+
