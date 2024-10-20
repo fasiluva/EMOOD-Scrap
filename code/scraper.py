@@ -17,24 +17,25 @@ def scrap_all() -> None:
     * Usada en <code>code/refiner.py</code>
     """
 
-    tiempoInicio = perf_counter()
-
     headers = request_data                  # Los headers estan en data/headers.py
     max_pages = 500                         # Maximo de paginas a cargar. Por defecto, 500.
-    limit = 50
+    limit = 50                              # Maximo de elementos por pagina. Por defecto, 12.
 
     session = requests.Session()            
     # Nos provee la cookie y una conexion persistente con la pagina 
     #! (obligatorio para moverse por paginaciones)
     
     for category in categories:
-        scrap_category(category, session, max_pages, headers)
+        scrap_category(category, session, max_pages, headers, limit)
     
     session.close()
-    print("\nTiempo tomado: ", perf_counter() - tiempoInicio)
 
 
-def scrap_category(category : str, session : requests.Session, max_pages : int, headers : dict) -> None:
+def scrap_category(category : str, 
+                   session : requests.Session, 
+                   max_pages : int, 
+                   headers : dict,
+                   limit : int) -> None:
     """
     <h4> Scrapea la categoria pasada como argumento hasta agotar sus productos o hasta la paginacion <code>max_pages</code>.<h4>
     
