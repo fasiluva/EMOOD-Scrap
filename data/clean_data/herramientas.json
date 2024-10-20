@@ -1,0 +1,3652 @@
+[
+    {
+        "nombre": "Escalera Metalica Reforzada Onebox OB-E4 4 Escalones Antideslizante",
+        "sku": "ME-OB-E4",
+        "precio": 128249,
+        "precioDesc": 119999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 119999,
+                    "installment_value_cents": 11999900,
+                    "interest": 0,
+                    "total_value": 119999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 71003.4083,
+                    "installment_value_cents": 7100340.83,
+                    "interest": 0.1834,
+                    "total_value": 142006.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 39999.666666667,
+                    "installment_value_cents": 3999966.6666667,
+                    "interest": 0,
+                    "total_value": 119999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 19999.833333333,
+                    "installment_value_cents": 1999983.3333333,
+                    "interest": 0,
+                    "total_value": 119999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 13333.222222222,
+                    "installment_value_cents": 1333322.2222222,
+                    "interest": 0,
+                    "total_value": 119999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 9999.9166666667,
+                    "installment_value_cents": 999991.66666667,
+                    "interest": 0,
+                    "total_value": 119999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 119999,
+                    "installment_value_cents": 11999900,
+                    "interest": 0,
+                    "total_value": 119999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 119999,
+                    "installment_value_cents": 11999900,
+                    "interest": 0,
+                    "total_value": 119999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/escalera-metalica-reforzada-onebox-ob-e4-4-escalones-antideslizante/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_664518e423ea1-4f45d9c764a6227a6917158778593577-1024-1024.webp"
+    },
+    {
+        "nombre": "Compresor Mini de Aire Suono ACC0045 Portatil 12v",
+        "sku": "ME-ACC0045",
+        "precio": 19499,
+        "precioDesc": 14999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 14999,
+                    "installment_value_cents": 1499900,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 8874.9083,
+                    "installment_value_cents": 887490.83,
+                    "interest": 0.1834,
+                    "total_value": 17749.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 4999.6666666667,
+                    "installment_value_cents": 499966.66666667,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 2499.8333333333,
+                    "installment_value_cents": 249983.33333333,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 1666.5555555556,
+                    "installment_value_cents": 166655.55555556,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 1249.9166666667,
+                    "installment_value_cents": 124991.66666667,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 14999,
+                    "installment_value_cents": 1499900,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 14999,
+                    "installment_value_cents": 1499900,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/compresor-mini-de-aire-suono-acc0045-portatil-12v/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_66f6d4f6757cb-89dcc034117672437f17289470348933-1024-1024.webp"
+    },
+    {
+        "nombre": "Carro Plegable Daewoo DAFW1811 Portatil",
+        "sku": "ME-DAFW1811",
+        "precio": 177999,
+        "precioDesc": 131999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 131999,
+                    "installment_value_cents": 13199900,
+                    "interest": 0,
+                    "total_value": 131999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 78103.8083,
+                    "installment_value_cents": 7810380.83,
+                    "interest": 0.1834,
+                    "total_value": 156207.6166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 43999.666666667,
+                    "installment_value_cents": 4399966.6666667,
+                    "interest": 0,
+                    "total_value": 131999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 21999.833333333,
+                    "installment_value_cents": 2199983.3333333,
+                    "interest": 0,
+                    "total_value": 131999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 14666.555555556,
+                    "installment_value_cents": 1466655.5555556,
+                    "interest": 0,
+                    "total_value": 131999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 10999.916666667,
+                    "installment_value_cents": 1099991.6666667,
+                    "interest": 0,
+                    "total_value": 131999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 131999,
+                    "installment_value_cents": 13199900,
+                    "interest": 0,
+                    "total_value": 131999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 131999,
+                    "installment_value_cents": 13199900,
+                    "interest": 0,
+                    "total_value": 131999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/carro-plegable-daewoo-dafw1811-portatil/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_66fd90d050fac-c746ecb28f7251c26a17289433275224-1024-1024.webp"
+    },
+    {
+        "nombre": "Taladro Inalambrico Daewoo DACD1210H",
+        "sku": "ME-DACD1210H",
+        "precio": 80999,
+        "precioDesc": 59999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 59999,
+                    "installment_value_cents": 5999900,
+                    "interest": 0,
+                    "total_value": 59999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 35501.4083,
+                    "installment_value_cents": 3550140.83,
+                    "interest": 0.1834,
+                    "total_value": 71002.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 19999.666666667,
+                    "installment_value_cents": 1999966.6666667,
+                    "interest": 0,
+                    "total_value": 59999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 9999.8333333333,
+                    "installment_value_cents": 999983.33333333,
+                    "interest": 0,
+                    "total_value": 59999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 6666.5555555556,
+                    "installment_value_cents": 666655.55555556,
+                    "interest": 0,
+                    "total_value": 59999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 4999.9166666667,
+                    "installment_value_cents": 499991.66666667,
+                    "interest": 0,
+                    "total_value": 59999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 59999,
+                    "installment_value_cents": 5999900,
+                    "interest": 0,
+                    "total_value": 59999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 59999,
+                    "installment_value_cents": 5999900,
+                    "interest": 0,
+                    "total_value": 59999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/taladro-inalambrico-daewoo-dacd1210h/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_66fd8ddc84a59-5ff94dae31c251661517289432840850-1024-1024.webp"
+    },
+    {
+        "nombre": "Taladro Inalambrico Daewoo DACD325",
+        "sku": "ME-DACD325",
+        "precio": 106999,
+        "precioDesc": 78999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 78999,
+                    "installment_value_cents": 7899900,
+                    "interest": 0,
+                    "total_value": 78999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 46743.7083,
+                    "installment_value_cents": 4674370.83,
+                    "interest": 0.1834,
+                    "total_value": 93487.4166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 26333,
+                    "installment_value_cents": 2633300,
+                    "interest": 0,
+                    "total_value": 78999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 13166.5,
+                    "installment_value_cents": 1316650,
+                    "interest": 0,
+                    "total_value": 78999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 8777.6666666667,
+                    "installment_value_cents": 877766.66666667,
+                    "interest": 0,
+                    "total_value": 78999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 6583.25,
+                    "installment_value_cents": 658325,
+                    "interest": 0,
+                    "total_value": 78999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 78999,
+                    "installment_value_cents": 7899900,
+                    "interest": 0,
+                    "total_value": 78999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 78999,
+                    "installment_value_cents": 7899900,
+                    "interest": 0,
+                    "total_value": 78999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/taladro-inalambrico-daewoo-dacd325/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_66fd94b20e395-5b5e8f0544b3a755f017289432838408-1024-1024.webp"
+    },
+    {
+        "nombre": "Compresor de Aire Daewoo DAC24D 24L",
+        "sku": "ME-DAC24D",
+        "precio": 249999,
+        "precioDesc": 184999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 184999,
+                    "installment_value_cents": 18499900,
+                    "interest": 0,
+                    "total_value": 184999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 109463.9083,
+                    "installment_value_cents": 10946390.83,
+                    "interest": 0.1834,
+                    "total_value": 218927.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 61666.333333333,
+                    "installment_value_cents": 6166633.3333333,
+                    "interest": 0,
+                    "total_value": 184999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 30833.166666667,
+                    "installment_value_cents": 3083316.6666667,
+                    "interest": 0,
+                    "total_value": 184999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 20555.444444444,
+                    "installment_value_cents": 2055544.4444444,
+                    "interest": 0,
+                    "total_value": 184999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 15416.583333333,
+                    "installment_value_cents": 1541658.3333333,
+                    "interest": 0,
+                    "total_value": 184999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 184999,
+                    "installment_value_cents": 18499900,
+                    "interest": 0,
+                    "total_value": 184999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 184999,
+                    "installment_value_cents": 18499900,
+                    "interest": 0,
+                    "total_value": 184999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/compresor-de-aire-daewoo-dac24d-24l/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_66fd96843a90a-c140c8f5f96d8381e917289411391135-1024-1024.webp"
+    },
+    {
+        "nombre": "Manguera Expandible Daewoo DAEH23",
+        "sku": "ME-DAEH23",
+        "precio": 35999,
+        "precioDesc": 26999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 26999,
+                    "installment_value_cents": 2699900,
+                    "interest": 0,
+                    "total_value": 26999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 15975.3083,
+                    "installment_value_cents": 1597530.83,
+                    "interest": 0.1834,
+                    "total_value": 31950.6166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 8999.6666666667,
+                    "installment_value_cents": 899966.66666667,
+                    "interest": 0,
+                    "total_value": 26999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 4499.8333333333,
+                    "installment_value_cents": 449983.33333333,
+                    "interest": 0,
+                    "total_value": 26999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 2999.8888888889,
+                    "installment_value_cents": 299988.88888889,
+                    "interest": 0,
+                    "total_value": 26999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 2249.9166666667,
+                    "installment_value_cents": 224991.66666667,
+                    "interest": 0,
+                    "total_value": 26999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 26999,
+                    "installment_value_cents": 2699900,
+                    "interest": 0,
+                    "total_value": 26999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 26999,
+                    "installment_value_cents": 2699900,
+                    "interest": 0,
+                    "total_value": 26999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/manguera-expandible-daewoo-daeh23/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_66fd80ca63b86-48af6aa239e97aba4e17289396943326-1024-1024.webp"
+    },
+    {
+        "nombre": "Inflador de Mano Waterdog HB130",
+        "sku": "ME-HB130",
+        "precio": 28349,
+        "precioDesc": 18999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 18999,
+                    "installment_value_cents": 1899900,
+                    "interest": 0,
+                    "total_value": 18999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 11241.7083,
+                    "installment_value_cents": 1124170.83,
+                    "interest": 0.1834,
+                    "total_value": 22483.4166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 6333,
+                    "installment_value_cents": 633300,
+                    "interest": 0,
+                    "total_value": 18999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 3166.5,
+                    "installment_value_cents": 316650,
+                    "interest": 0,
+                    "total_value": 18999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 2111,
+                    "installment_value_cents": 211100,
+                    "interest": 0,
+                    "total_value": 18999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 1583.25,
+                    "installment_value_cents": 158325,
+                    "interest": 0,
+                    "total_value": 18999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 18999,
+                    "installment_value_cents": 1899900,
+                    "interest": 0,
+                    "total_value": 18999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 18999,
+                    "installment_value_cents": 1899900,
+                    "interest": 0,
+                    "total_value": 18999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/inflador-de-mano-waterdog-hb130/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_66d7679841bdc-ef18d03b5f729cbe8f17289391396440-1024-1024.webp"
+    },
+    {
+        "nombre": "Kit de Herramientas Daewoo DWS108B 108 Piezas",
+        "sku": "ME-DWS108B",
+        "precio": 145999,
+        "precioDesc": 107999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 107999,
+                    "installment_value_cents": 10799900,
+                    "interest": 0,
+                    "total_value": 107999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 63903.0083,
+                    "installment_value_cents": 6390300.83,
+                    "interest": 0.1834,
+                    "total_value": 127806.0166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 35999.666666667,
+                    "installment_value_cents": 3599966.6666667,
+                    "interest": 0,
+                    "total_value": 107999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 17999.833333333,
+                    "installment_value_cents": 1799983.3333333,
+                    "interest": 0,
+                    "total_value": 107999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 11999.888888889,
+                    "installment_value_cents": 1199988.8888889,
+                    "interest": 0,
+                    "total_value": 107999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 8999.9166666667,
+                    "installment_value_cents": 899991.66666667,
+                    "interest": 0,
+                    "total_value": 107999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 107999,
+                    "installment_value_cents": 10799900,
+                    "interest": 0,
+                    "total_value": 107999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 107999,
+                    "installment_value_cents": 10799900,
+                    "interest": 0,
+                    "total_value": 107999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/kit-de-herramientas-daewoo-dws108b-108-piezas1/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_66fc5e96069e4-494e7daa8296148c7f17289351317603-1024-1024.webp"
+    },
+    {
+        "nombre": "Soldadora Daewoo DW200MMA Inverter",
+        "sku": "ME-DW200MMA",
+        "precio": 389999,
+        "precioDesc": 288999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 288999,
+                    "installment_value_cents": 28899900,
+                    "interest": 0,
+                    "total_value": 288999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 171000.7083,
+                    "installment_value_cents": 17100070.83,
+                    "interest": 0.1834,
+                    "total_value": 342001.4166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 96333,
+                    "installment_value_cents": 9633300,
+                    "interest": 0,
+                    "total_value": 288999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 48166.5,
+                    "installment_value_cents": 4816650,
+                    "interest": 0,
+                    "total_value": 288999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 32111,
+                    "installment_value_cents": 3211100,
+                    "interest": 0,
+                    "total_value": 288999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 24083.25,
+                    "installment_value_cents": 2408325,
+                    "interest": 0,
+                    "total_value": 288999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 288999,
+                    "installment_value_cents": 28899900,
+                    "interest": 0,
+                    "total_value": 288999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 288999,
+                    "installment_value_cents": 28899900,
+                    "interest": 0,
+                    "total_value": 288999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/soldadora-daewoo-dw200mma-inverter/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_66fd89c50ed38-31352342810504748617289349985283-1024-1024.webp"
+    },
+    {
+        "nombre": "Sierra Caladora Daewoo DAJS800 800w",
+        "sku": "ME-DAJS800",
+        "precio": 141999,
+        "precioDesc": 104999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 104999,
+                    "installment_value_cents": 10499900,
+                    "interest": 0,
+                    "total_value": 104999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 62127.9083,
+                    "installment_value_cents": 6212790.83,
+                    "interest": 0.1834,
+                    "total_value": 124255.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 34999.666666667,
+                    "installment_value_cents": 3499966.6666667,
+                    "interest": 0,
+                    "total_value": 104999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 17499.833333333,
+                    "installment_value_cents": 1749983.3333333,
+                    "interest": 0,
+                    "total_value": 104999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 11666.555555556,
+                    "installment_value_cents": 1166655.5555556,
+                    "interest": 0,
+                    "total_value": 104999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 8749.9166666667,
+                    "installment_value_cents": 874991.66666667,
+                    "interest": 0,
+                    "total_value": 104999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 104999,
+                    "installment_value_cents": 10499900,
+                    "interest": 0,
+                    "total_value": 104999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 104999,
+                    "installment_value_cents": 10499900,
+                    "interest": 0,
+                    "total_value": 104999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/sierra-caladora-daewoo-dajs800-800w/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_66fd8356e6d19-54d844908ba9a6f1c617289349570949-1024-1024.webp"
+    },
+    {
+        "nombre": "Llave Trinquete Daewoo DWRW01 Inalambrica",
+        "sku": "ME-DWRW01",
+        "precio": 166999,
+        "precioDesc": 123999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 123999,
+                    "installment_value_cents": 12399900,
+                    "interest": 0,
+                    "total_value": 123999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 73370.2083,
+                    "installment_value_cents": 7337020.83,
+                    "interest": 0.1834,
+                    "total_value": 146740.4166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 41333,
+                    "installment_value_cents": 4133300,
+                    "interest": 0,
+                    "total_value": 123999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 20666.5,
+                    "installment_value_cents": 2066650,
+                    "interest": 0,
+                    "total_value": 123999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 13777.666666667,
+                    "installment_value_cents": 1377766.6666667,
+                    "interest": 0,
+                    "total_value": 123999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 10333.25,
+                    "installment_value_cents": 1033325,
+                    "interest": 0,
+                    "total_value": 123999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 123999,
+                    "installment_value_cents": 12399900,
+                    "interest": 0,
+                    "total_value": 123999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 123999,
+                    "installment_value_cents": 12399900,
+                    "interest": 0,
+                    "total_value": 123999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/llave-trinquete-daewoo-dwrw01-inalambrica/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_66fd86786c1c5-569121282d0157d2dc17289351643289-1024-1024.webp"
+    },
+    {
+        "nombre": "Kit de Llaves Tubo Daewoo DWS46B 46 Piezas",
+        "sku": "ME-DWS46B",
+        "precio": 48999,
+        "precioDesc": 35999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 35999,
+                    "installment_value_cents": 3599900,
+                    "interest": 0,
+                    "total_value": 35999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 21300.6083,
+                    "installment_value_cents": 2130060.83,
+                    "interest": 0.1834,
+                    "total_value": 42601.2166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 11999.666666667,
+                    "installment_value_cents": 1199966.6666667,
+                    "interest": 0,
+                    "total_value": 35999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 5999.8333333333,
+                    "installment_value_cents": 599983.33333333,
+                    "interest": 0,
+                    "total_value": 35999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 3999.8888888889,
+                    "installment_value_cents": 399988.88888889,
+                    "interest": 0,
+                    "total_value": 35999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 2999.9166666667,
+                    "installment_value_cents": 299991.66666667,
+                    "interest": 0,
+                    "total_value": 35999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 35999,
+                    "installment_value_cents": 3599900,
+                    "interest": 0,
+                    "total_value": 35999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 35999,
+                    "installment_value_cents": 3599900,
+                    "interest": 0,
+                    "total_value": 35999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/kit-de-llaves-tubo-daewoo-dws46b-46-piezas/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_66fd7ef503907-6011d3d6058c6e597a17289348567558-1024-1024.webp"
+    },
+    {
+        "nombre": "Juego de Alicates Destornilladores Stanley S91529 10 Piezas",
+        "sku": "ME-S91529",
+        "precio": 114749,
+        "precioDesc": 84999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 84999,
+                    "installment_value_cents": 8499900,
+                    "interest": 0,
+                    "total_value": 84999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 50293.9083,
+                    "installment_value_cents": 5029390.83,
+                    "interest": 0.1834,
+                    "total_value": 100587.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 28333,
+                    "installment_value_cents": 2833300,
+                    "interest": 0,
+                    "total_value": 84999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 14166.5,
+                    "installment_value_cents": 1416650,
+                    "interest": 0,
+                    "total_value": 84999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 9444.3333333333,
+                    "installment_value_cents": 944433.33333333,
+                    "interest": 0,
+                    "total_value": 84999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 7083.25,
+                    "installment_value_cents": 708325,
+                    "interest": 0,
+                    "total_value": 84999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 84999,
+                    "installment_value_cents": 8499900,
+                    "interest": 0,
+                    "total_value": 84999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 84999,
+                    "installment_value_cents": 8499900,
+                    "interest": 0,
+                    "total_value": 84999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/juego-de-alicates-destornilladores-stanley-s91529-10-piezas/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_652fd38f44657-e9534c124dfcf830f417206399070674-1024-1024.webp"
+    },
+    {
+        "nombre": "Taladro Percutor Black Decker HD650K 13Mm 650W Con Maleta",
+        "sku": "ME-BDHD650K",
+        "precio": 188999,
+        "precioDesc": 139999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 139999,
+                    "installment_value_cents": 13999900,
+                    "interest": 0,
+                    "total_value": 139999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 82837.4083,
+                    "installment_value_cents": 8283740.83,
+                    "interest": 0.1834,
+                    "total_value": 165674.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 46666.333333333,
+                    "installment_value_cents": 4666633.3333333,
+                    "interest": 0,
+                    "total_value": 139999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 23333.166666667,
+                    "installment_value_cents": 2333316.6666667,
+                    "interest": 0,
+                    "total_value": 139999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 15555.444444444,
+                    "installment_value_cents": 1555544.4444444,
+                    "interest": 0,
+                    "total_value": 139999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 11666.583333333,
+                    "installment_value_cents": 1166658.3333333,
+                    "interest": 0,
+                    "total_value": 139999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 139999,
+                    "installment_value_cents": 13999900,
+                    "interest": 0,
+                    "total_value": 139999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 139999,
+                    "installment_value_cents": 13999900,
+                    "interest": 0,
+                    "total_value": 139999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/taladro-percutor-black-decker-hd650k-13mm-650w-con-maleta/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_652fdc58cd7e7-b9004e685cbfee5c5d17206394171018-1024-1024.webp"
+    },
+    {
+        "nombre": "Juego Destornilladores Stanley STMT65613L 40 Piezas",
+        "sku": "ME-STMT65613L",
+        "precio": 121499,
+        "precioDesc": 89999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 89999,
+                    "installment_value_cents": 8999900,
+                    "interest": 0,
+                    "total_value": 89999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 53252.4083,
+                    "installment_value_cents": 5325240.83,
+                    "interest": 0.1834,
+                    "total_value": 106504.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 29999.666666667,
+                    "installment_value_cents": 2999966.6666667,
+                    "interest": 0,
+                    "total_value": 89999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 14999.833333333,
+                    "installment_value_cents": 1499983.3333333,
+                    "interest": 0,
+                    "total_value": 89999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 9999.8888888889,
+                    "installment_value_cents": 999988.88888889,
+                    "interest": 0,
+                    "total_value": 89999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 7499.9166666667,
+                    "installment_value_cents": 749991.66666667,
+                    "interest": 0,
+                    "total_value": 89999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 89999,
+                    "installment_value_cents": 8999900,
+                    "interest": 0,
+                    "total_value": 89999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 89999,
+                    "installment_value_cents": 8999900,
+                    "interest": 0,
+                    "total_value": 89999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/juego-destornilladores-stanley-stmt65613l-40-piezas/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_652ff4c6192e5-e4e2692f58b7a2179417206393351655-1024-1024.webp"
+    },
+    {
+        "nombre": "Compresor de Aire Black Decker BND559 50L + Kit Accesorios",
+        "sku": "ME-BDBND559",
+        "precio": 512999,
+        "precioDesc": 379999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 379999,
+                    "installment_value_cents": 37999900,
+                    "interest": 0,
+                    "total_value": 379999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 224845.4083,
+                    "installment_value_cents": 22484540.83,
+                    "interest": 0.1834,
+                    "total_value": 449690.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 126666.33333333,
+                    "installment_value_cents": 12666633.333333,
+                    "interest": 0,
+                    "total_value": 379999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 63333.166666667,
+                    "installment_value_cents": 6333316.6666667,
+                    "interest": 0,
+                    "total_value": 379999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 42222.111111111,
+                    "installment_value_cents": 4222211.1111111,
+                    "interest": 0,
+                    "total_value": 379999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 31666.583333333,
+                    "installment_value_cents": 3166658.3333333,
+                    "interest": 0,
+                    "total_value": 379999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 379999,
+                    "installment_value_cents": 37999900,
+                    "interest": 0,
+                    "total_value": 379999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 379999,
+                    "installment_value_cents": 37999900,
+                    "interest": 0,
+                    "total_value": 379999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/compresor-de-aire-black-decker-bnd559-50l-kit-accesorios/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6531440d16a31-24e1d62f16f1340d9517206393117470-1024-1024.webp"
+    },
+    {
+        "nombre": "Set Atornillador Black Decker 71937 45 Piezas Con Criquet",
+        "sku": "ME-BD71937",
+        "precio": 56699,
+        "precioDesc": 41999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 41999,
+                    "installment_value_cents": 4199900,
+                    "interest": 0,
+                    "total_value": 41999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 24850.8083,
+                    "installment_value_cents": 2485080.83,
+                    "interest": 0.1834,
+                    "total_value": 49701.6166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 13999.666666667,
+                    "installment_value_cents": 1399966.6666667,
+                    "interest": 0,
+                    "total_value": 41999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 6999.8333333333,
+                    "installment_value_cents": 699983.33333333,
+                    "interest": 0,
+                    "total_value": 41999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 4666.5555555556,
+                    "installment_value_cents": 466655.55555556,
+                    "interest": 0,
+                    "total_value": 41999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 3499.9166666667,
+                    "installment_value_cents": 349991.66666667,
+                    "interest": 0,
+                    "total_value": 41999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 41999,
+                    "installment_value_cents": 4199900,
+                    "interest": 0,
+                    "total_value": 41999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 41999,
+                    "installment_value_cents": 4199900,
+                    "interest": 0,
+                    "total_value": 41999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/set-atornillador-black-decker-71937-45-piezas-con-criquet/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_652ef2a41fb11-86e6eb951394d2d33517206386132848-1024-1024.webp"
+    },
+    {
+        "nombre": "Sierra Caladora Black Decker KS701PEK 550W Con Maleta",
+        "sku": "ME-BDKS701PEK",
+        "precio": 229499,
+        "precioDesc": 169999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 169999,
+                    "installment_value_cents": 16999900,
+                    "interest": 0,
+                    "total_value": 169999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 100588.4083,
+                    "installment_value_cents": 10058840.83,
+                    "interest": 0.1834,
+                    "total_value": 201176.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 56666.333333333,
+                    "installment_value_cents": 5666633.3333333,
+                    "interest": 0,
+                    "total_value": 169999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 28333.166666667,
+                    "installment_value_cents": 2833316.6666667,
+                    "interest": 0,
+                    "total_value": 169999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 18888.777777778,
+                    "installment_value_cents": 1888877.7777778,
+                    "interest": 0,
+                    "total_value": 169999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 14166.583333333,
+                    "installment_value_cents": 1416658.3333333,
+                    "interest": 0,
+                    "total_value": 169999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 169999,
+                    "installment_value_cents": 16999900,
+                    "interest": 0,
+                    "total_value": 169999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 169999,
+                    "installment_value_cents": 16999900,
+                    "interest": 0,
+                    "total_value": 169999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/sierra-caladora-black-decker-ks701pek-550w-con-maleta/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_65313af33a200-f59a6ca38fae691ea417206386063180-1024-1024.webp"
+    },
+    {
+        "nombre": "Caja de Herramientas 129 piezas Goodyear HTK-5009",
+        "sku": "GY-HER-HTK5009-BLU",
+        "precio": 94499,
+        "precioDesc": 69999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 69999,
+                    "installment_value_cents": 6999900,
+                    "interest": 0,
+                    "total_value": 69999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 41418.4083,
+                    "installment_value_cents": 4141840.83,
+                    "interest": 0.1834,
+                    "total_value": 82836.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 23333,
+                    "installment_value_cents": 2333300,
+                    "interest": 0,
+                    "total_value": 69999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 11666.5,
+                    "installment_value_cents": 1166650,
+                    "interest": 0,
+                    "total_value": 69999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 7777.6666666667,
+                    "installment_value_cents": 777766.66666667,
+                    "interest": 0,
+                    "total_value": 69999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 5833.25,
+                    "installment_value_cents": 583325,
+                    "interest": 0,
+                    "total_value": 69999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 69999,
+                    "installment_value_cents": 6999900,
+                    "interest": 0,
+                    "total_value": 69999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 69999,
+                    "installment_value_cents": 6999900,
+                    "interest": 0,
+                    "total_value": 69999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/caja-de-herramientas-129-piezas-goodyear-htk-5009/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6490583078185-14797f800680c3cf9d17206359000091-1024-1024.webp"
+    },
+    {
+        "nombre": "Taladro Goodyear inalambrico 12V DI-19100 700RPM con Accesorios",
+        "sku": "GY-TAL-DI19100-BLU",
+        "precio": 121499,
+        "precioDesc": 89999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 89999,
+                    "installment_value_cents": 8999900,
+                    "interest": 0,
+                    "total_value": 89999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 53252.4083,
+                    "installment_value_cents": 5325240.83,
+                    "interest": 0.1834,
+                    "total_value": 106504.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 29999.666666667,
+                    "installment_value_cents": 2999966.6666667,
+                    "interest": 0,
+                    "total_value": 89999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 14999.833333333,
+                    "installment_value_cents": 1499983.3333333,
+                    "interest": 0,
+                    "total_value": 89999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 9999.8888888889,
+                    "installment_value_cents": 999988.88888889,
+                    "interest": 0,
+                    "total_value": 89999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 7499.9166666667,
+                    "installment_value_cents": 749991.66666667,
+                    "interest": 0,
+                    "total_value": 89999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 89999,
+                    "installment_value_cents": 8999900,
+                    "interest": 0,
+                    "total_value": 89999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 89999,
+                    "installment_value_cents": 8999900,
+                    "interest": 0,
+                    "total_value": 89999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/taladro-goodyear-inalambrico-12v-di-19100-700rpm-con-accesorios/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6490577e17216-5461eb5fd2a707cc5d17206337478282-1024-1024.webp"
+    },
+    {
+        "nombre": "Caja de Herramientas Stanley 16\" IC05003467N Cierre Metalico",
+        "sku": "ME-16-013",
+        "precio": 53999,
+        "precioDesc": 39999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 39999,
+                    "installment_value_cents": 3999900,
+                    "interest": 0,
+                    "total_value": 39999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 23667.4083,
+                    "installment_value_cents": 2366740.83,
+                    "interest": 0.1834,
+                    "total_value": 47334.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 13333,
+                    "installment_value_cents": 1333300,
+                    "interest": 0,
+                    "total_value": 39999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 6666.5,
+                    "installment_value_cents": 666650,
+                    "interest": 0,
+                    "total_value": 39999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 4444.3333333333,
+                    "installment_value_cents": 444433.33333333,
+                    "interest": 0,
+                    "total_value": 39999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 3333.25,
+                    "installment_value_cents": 333325,
+                    "interest": 0,
+                    "total_value": 39999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 39999,
+                    "installment_value_cents": 3999900,
+                    "interest": 0,
+                    "total_value": 39999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 39999,
+                    "installment_value_cents": 3999900,
+                    "interest": 0,
+                    "total_value": 39999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/caja-de-herramientas-stanley-16-ic05003467n-cierre-metalico/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_64e90d08a49b3-35f821ac9ad235648e17155657938004-1024-1024.webp"
+    },
+    {
+        "nombre": "Escalera Metalica Reforzada Onebox OB-E3 3 Escalones Antideslizante",
+        "sku": "ME-OB-E3",
+        "precio": 105299,
+        "precioDesc": 90999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 90999,
+                    "installment_value_cents": 9099900,
+                    "interest": 0,
+                    "total_value": 90999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 53844.1083,
+                    "installment_value_cents": 5384410.83,
+                    "interest": 0.1834,
+                    "total_value": 107688.2166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 30333,
+                    "installment_value_cents": 3033300,
+                    "interest": 0,
+                    "total_value": 90999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 15166.5,
+                    "installment_value_cents": 1516650,
+                    "interest": 0,
+                    "total_value": 90999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 10111,
+                    "installment_value_cents": 1011100,
+                    "interest": 0,
+                    "total_value": 90999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 7583.25,
+                    "installment_value_cents": 758325,
+                    "interest": 0,
+                    "total_value": 90999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 90999,
+                    "installment_value_cents": 9099900,
+                    "interest": 0,
+                    "total_value": 90999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 90999,
+                    "installment_value_cents": 9099900,
+                    "interest": 0,
+                    "total_value": 90999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/escalera-metalica-reforzada-onebox-ob-e3-3-escalones-antideslizante/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_655cbcb25a1da-50ab84e20b34eaea6e17155610140014-1024-1024.webp"
+    },
+    {
+        "nombre": "Set Herramientas Kalydon KLD1841 132 Piezas con Caja Plegable",
+        "sku": "ME-KLD1841",
+        "precio": 94499,
+        "precioDesc": 69999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 69999,
+                    "installment_value_cents": 6999900,
+                    "interest": 0,
+                    "total_value": 69999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 41418.4083,
+                    "installment_value_cents": 4141840.83,
+                    "interest": 0.1834,
+                    "total_value": 82836.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 23333,
+                    "installment_value_cents": 2333300,
+                    "interest": 0,
+                    "total_value": 69999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 11666.5,
+                    "installment_value_cents": 1166650,
+                    "interest": 0,
+                    "total_value": 69999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 7777.6666666667,
+                    "installment_value_cents": 777766.66666667,
+                    "interest": 0,
+                    "total_value": 69999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 5833.25,
+                    "installment_value_cents": 583325,
+                    "interest": 0,
+                    "total_value": 69999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 69999,
+                    "installment_value_cents": 6999900,
+                    "interest": 0,
+                    "total_value": 69999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 69999,
+                    "installment_value_cents": 6999900,
+                    "interest": 0,
+                    "total_value": 69999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/set-herramientas-kalydon-kld1841-132-piezas-con-caja-plegable/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_663a5241458f1-47157af1d58796d84f17150983419339-1024-1024.webp"
+    },
+    {
+        "nombre": "Set Herramientas Kalydon KLD1840 130 Piezas con Caja Plegable",
+        "sku": "ME-KLD1840",
+        "precio": 71549,
+        "precioDesc": 52999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 52999,
+                    "installment_value_cents": 5299900,
+                    "interest": 0,
+                    "total_value": 52999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 31359.5083,
+                    "installment_value_cents": 3135950.83,
+                    "interest": 0.1834,
+                    "total_value": 62719.0166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 17666.333333333,
+                    "installment_value_cents": 1766633.3333333,
+                    "interest": 0,
+                    "total_value": 52999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 8833.1666666667,
+                    "installment_value_cents": 883316.66666667,
+                    "interest": 0,
+                    "total_value": 52999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 5888.7777777778,
+                    "installment_value_cents": 588877.77777778,
+                    "interest": 0,
+                    "total_value": 52999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 4416.5833333333,
+                    "installment_value_cents": 441658.33333333,
+                    "interest": 0,
+                    "total_value": 52999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 52999,
+                    "installment_value_cents": 5299900,
+                    "interest": 0,
+                    "total_value": 52999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 52999,
+                    "installment_value_cents": 5299900,
+                    "interest": 0,
+                    "total_value": 52999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/set-herramientas-kalydon-kld1840-130-piezas-con-caja-plegable/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_663a60ac3a418-929145ab179a601cbd17151161487563-1024-1024.webp"
+    },
+    {
+        "nombre": "Cinta Metrica Kalydon KLDCM51 5Mts Fleje 19mm",
+        "sku": "ME-KLDCM51",
+        "precio": 16199,
+        "precioDesc": 11999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 11999,
+                    "installment_value_cents": 1199900,
+                    "interest": 0,
+                    "total_value": 11999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 7099.8083,
+                    "installment_value_cents": 709980.83,
+                    "interest": 0.1834,
+                    "total_value": 14199.6166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 3999.6666666667,
+                    "installment_value_cents": 399966.66666667,
+                    "interest": 0,
+                    "total_value": 11999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 1999.8333333333,
+                    "installment_value_cents": 199983.33333333,
+                    "interest": 0,
+                    "total_value": 11999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 1333.2222222222,
+                    "installment_value_cents": 133322.22222222,
+                    "interest": 0,
+                    "total_value": 11999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 999.91666666667,
+                    "installment_value_cents": 99991.666666667,
+                    "interest": 0,
+                    "total_value": 11999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 11999,
+                    "installment_value_cents": 1199900,
+                    "interest": 0,
+                    "total_value": 11999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 11999,
+                    "installment_value_cents": 1199900,
+                    "interest": 0,
+                    "total_value": 11999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/cinta-metrica-kalydon-kldcm51-5mts-fleje-19mm/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_663a2682f3e7d-d32ac531a05a90844f17151161040498-1024-1024.webp"
+    },
+    {
+        "nombre": "Cinta Metrica Kalydon KLDCM3 3Mts Fleje 16mm",
+        "sku": "ME-KLDCM3",
+        "precio": 8099,
+        "precioDesc": 5999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 5999,
+                    "installment_value_cents": 599900,
+                    "interest": 0,
+                    "total_value": 5999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 3549.6083,
+                    "installment_value_cents": 354960.83,
+                    "interest": 0.1834,
+                    "total_value": 7099.2166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 1999.6666666667,
+                    "installment_value_cents": 199966.66666667,
+                    "interest": 0,
+                    "total_value": 5999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 999.83333333333,
+                    "installment_value_cents": 99983.333333333,
+                    "interest": 0,
+                    "total_value": 5999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 666.55555555556,
+                    "installment_value_cents": 66655.555555556,
+                    "interest": 0,
+                    "total_value": 5999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 499.91666666667,
+                    "installment_value_cents": 49991.666666667,
+                    "interest": 0,
+                    "total_value": 5999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 5999,
+                    "installment_value_cents": 599900,
+                    "interest": 0,
+                    "total_value": 5999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 5999,
+                    "installment_value_cents": 599900,
+                    "interest": 0,
+                    "total_value": 5999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/cinta-metrica-kalydon-kldcm3-3mts-fleje-16mm/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_663a40fc65a9d-43c0571fde7f352d7517151160164870-1024-1024.webp"
+    },
+    {
+        "nombre": "Set de herramientas Kalydon KLD1845 63 Piezas con Maletin",
+        "sku": "ME-KLD1845",
+        "precio": 255149,
+        "precioDesc": 188999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 188999,
+                    "installment_value_cents": 18899900,
+                    "interest": 0,
+                    "total_value": 188999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 111830.7083,
+                    "installment_value_cents": 11183070.83,
+                    "interest": 0.1834,
+                    "total_value": 223661.4166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 62999.666666667,
+                    "installment_value_cents": 6299966.6666667,
+                    "interest": 0,
+                    "total_value": 188999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 31499.833333333,
+                    "installment_value_cents": 3149983.3333333,
+                    "interest": 0,
+                    "total_value": 188999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 20999.888888889,
+                    "installment_value_cents": 2099988.8888889,
+                    "interest": 0,
+                    "total_value": 188999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 15749.916666667,
+                    "installment_value_cents": 1574991.6666667,
+                    "interest": 0,
+                    "total_value": 188999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 188999,
+                    "installment_value_cents": 18899900,
+                    "interest": 0,
+                    "total_value": 188999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 188999,
+                    "installment_value_cents": 18899900,
+                    "interest": 0,
+                    "total_value": 188999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/set-de-herramientas-kalydon-kld1845-63-piezas-con-maletin/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6638fbeb62079-518e376e5a884f839017151260564288-1024-1024.webp"
+    },
+    {
+        "nombre": "Cargador Mantenedor de Bateria Caterpillar CATCB1500 6 - 12V",
+        "sku": "ME-CATCB1500",
+        "precio": 147149,
+        "precioDesc": 108999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 108999,
+                    "installment_value_cents": 10899900,
+                    "interest": 0,
+                    "total_value": 108999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 64494.7083,
+                    "installment_value_cents": 6449470.83,
+                    "interest": 0.1834,
+                    "total_value": 128989.4166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 36333,
+                    "installment_value_cents": 3633300,
+                    "interest": 0,
+                    "total_value": 108999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 18166.5,
+                    "installment_value_cents": 1816650,
+                    "interest": 0,
+                    "total_value": 108999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 12111,
+                    "installment_value_cents": 1211100,
+                    "interest": 0,
+                    "total_value": 108999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 9083.25,
+                    "installment_value_cents": 908325,
+                    "interest": 0,
+                    "total_value": 108999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 108999,
+                    "installment_value_cents": 10899900,
+                    "interest": 0,
+                    "total_value": 108999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 108999,
+                    "installment_value_cents": 10899900,
+                    "interest": 0,
+                    "total_value": 108999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/cargador-mantenedor-de-bateria-caterpillar-catcb1500-6-12v/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_66390f9d9335f-6c3d37a26815d6d43517151376209139-1024-1024.webp"
+    },
+    {
+        "nombre": "Hidrolavadora Kalydon KLDHI145 135 Bar 1800W Boquilla Regulable",
+        "sku": "ME-KLDHI145",
+        "precio": 275399,
+        "precioDesc": 203999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 203999,
+                    "installment_value_cents": 20399900,
+                    "interest": 0,
+                    "total_value": 203999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 120706.2083,
+                    "installment_value_cents": 12070620.83,
+                    "interest": 0.1834,
+                    "total_value": 241412.4166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 67999.666666667,
+                    "installment_value_cents": 6799966.6666667,
+                    "interest": 0,
+                    "total_value": 203999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 33999.833333333,
+                    "installment_value_cents": 3399983.3333333,
+                    "interest": 0,
+                    "total_value": 203999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 22666.555555556,
+                    "installment_value_cents": 2266655.5555556,
+                    "interest": 0,
+                    "total_value": 203999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 16999.916666667,
+                    "installment_value_cents": 1699991.6666667,
+                    "interest": 0,
+                    "total_value": 203999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 203999,
+                    "installment_value_cents": 20399900,
+                    "interest": 0,
+                    "total_value": 203999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 203999,
+                    "installment_value_cents": 20399900,
+                    "interest": 0,
+                    "total_value": 203999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/hidrolavadora-kalydon-kldhi145-135-bar-1800w-boquilla-regulable/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_663905a40e877-ee6d24aaa55916013817151259782946-1024-1024.webp"
+    },
+    {
+        "nombre": "Soplador Inalambrico Caterpillar CATDG250B 18V 161 km/h",
+        "sku": "ME-CATDG250B",
+        "precio": 364499,
+        "precioDesc": 269999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 269999,
+                    "installment_value_cents": 26999900,
+                    "interest": 0,
+                    "total_value": 269999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 159758.4083,
+                    "installment_value_cents": 15975840.83,
+                    "interest": 0.1834,
+                    "total_value": 319516.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 89999.666666667,
+                    "installment_value_cents": 8999966.6666667,
+                    "interest": 0,
+                    "total_value": 269999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 44999.833333333,
+                    "installment_value_cents": 4499983.3333333,
+                    "interest": 0,
+                    "total_value": 269999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 29999.888888889,
+                    "installment_value_cents": 2999988.8888889,
+                    "interest": 0,
+                    "total_value": 269999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 22499.916666667,
+                    "installment_value_cents": 2249991.6666667,
+                    "interest": 0,
+                    "total_value": 269999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 269999,
+                    "installment_value_cents": 26999900,
+                    "interest": 0,
+                    "total_value": 269999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 269999,
+                    "installment_value_cents": 26999900,
+                    "interest": 0,
+                    "total_value": 269999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/soplador-inalambrico-caterpillar-catdg250b-18v-161-km-h/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_663918e32a133-b76c33bdfa27eaa98117151375734309-1024-1024.webp"
+    },
+    {
+        "nombre": "Pinza Multiherramienta Caterpillar CAT980057 12 en 1",
+        "sku": "ME-CAT980057",
+        "precio": 66149,
+        "precioDesc": 48999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 48999,
+                    "installment_value_cents": 4899900,
+                    "interest": 0,
+                    "total_value": 48999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 28992.7083,
+                    "installment_value_cents": 2899270.83,
+                    "interest": 0.1834,
+                    "total_value": 57985.4166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 16333,
+                    "installment_value_cents": 1633300,
+                    "interest": 0,
+                    "total_value": 48999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 8166.5,
+                    "installment_value_cents": 816650,
+                    "interest": 0,
+                    "total_value": 48999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 5444.3333333333,
+                    "installment_value_cents": 544433.33333333,
+                    "interest": 0,
+                    "total_value": 48999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 4083.25,
+                    "installment_value_cents": 408325,
+                    "interest": 0,
+                    "total_value": 48999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 48999,
+                    "installment_value_cents": 4899900,
+                    "interest": 0,
+                    "total_value": 48999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 48999,
+                    "installment_value_cents": 4899900,
+                    "interest": 0,
+                    "total_value": 48999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/pinza-multiherramienta-caterpillar-cat980057-12-en-1/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_663a6e18e6161-9482bf9394ba515dcf17206365600206-1024-1024.webp"
+    },
+    {
+        "nombre": "Set de herramientas Kalydon KLD1848 133 Piezas con Caja Metalica",
+        "sku": "ME-KLD1848",
+        "precio": 384749,
+        "precioDesc": 284999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 284999,
+                    "installment_value_cents": 28499900,
+                    "interest": 0,
+                    "total_value": 284999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 168633.9083,
+                    "installment_value_cents": 16863390.83,
+                    "interest": 0.1834,
+                    "total_value": 337267.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 94999.666666667,
+                    "installment_value_cents": 9499966.6666667,
+                    "interest": 0,
+                    "total_value": 284999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 47499.833333333,
+                    "installment_value_cents": 4749983.3333333,
+                    "interest": 0,
+                    "total_value": 284999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 31666.555555556,
+                    "installment_value_cents": 3166655.5555556,
+                    "interest": 0,
+                    "total_value": 284999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 23749.916666667,
+                    "installment_value_cents": 2374991.6666667,
+                    "interest": 0,
+                    "total_value": 284999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 284999,
+                    "installment_value_cents": 28499900,
+                    "interest": 0,
+                    "total_value": 284999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 284999,
+                    "installment_value_cents": 28499900,
+                    "interest": 0,
+                    "total_value": 284999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/set-de-herramientas-kalydon-kld1848-133-piezas-con-caja-metalica/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_663931d60516f-7585c9eaafcb8d5a0017206363546733-1024-1024.webp"
+    },
+    {
+        "nombre": "Juego de Destornilladores Tactix TX205440 20 piezas",
+        "sku": "ME-TX205440",
+        "precio": 75599,
+        "precioDesc": 55999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 55999,
+                    "installment_value_cents": 5599900,
+                    "interest": 0,
+                    "total_value": 55999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 33134.6083,
+                    "installment_value_cents": 3313460.83,
+                    "interest": 0.1834,
+                    "total_value": 66269.2166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 18666.333333333,
+                    "installment_value_cents": 1866633.3333333,
+                    "interest": 0,
+                    "total_value": 55999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 9333.1666666667,
+                    "installment_value_cents": 933316.66666667,
+                    "interest": 0,
+                    "total_value": 55999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 6222.1111111111,
+                    "installment_value_cents": 622211.11111111,
+                    "interest": 0,
+                    "total_value": 55999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 4666.5833333333,
+                    "installment_value_cents": 466658.33333333,
+                    "interest": 0,
+                    "total_value": 55999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 55999,
+                    "installment_value_cents": 5599900,
+                    "interest": 0,
+                    "total_value": 55999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 55999,
+                    "installment_value_cents": 5599900,
+                    "interest": 0,
+                    "total_value": 55999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/juego-de-destornilladores-tactix-tx205440-20-piezas/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_66451b5b6ae01-01cb515371b13ac35717158086499663-1024-1024.webp"
+    },
+    {
+        "nombre": "Taladro Atornillador Percutor Caterpillar CATDX12 18V y Maletin",
+        "sku": "ME-CATDX12",
+        "precio": 701999,
+        "precioDesc": 519999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 519999,
+                    "installment_value_cents": 51999900,
+                    "interest": 0,
+                    "total_value": 519999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 307683.4083,
+                    "installment_value_cents": 30768340.83,
+                    "interest": 0.1834,
+                    "total_value": 615366.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 173333,
+                    "installment_value_cents": 17333300,
+                    "interest": 0,
+                    "total_value": 519999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 86666.5,
+                    "installment_value_cents": 8666650,
+                    "interest": 0,
+                    "total_value": 519999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 57777.666666667,
+                    "installment_value_cents": 5777766.6666667,
+                    "interest": 0,
+                    "total_value": 519999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 43333.25,
+                    "installment_value_cents": 4333325,
+                    "interest": 0,
+                    "total_value": 519999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 519999,
+                    "installment_value_cents": 51999900,
+                    "interest": 0,
+                    "total_value": 519999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 519999,
+                    "installment_value_cents": 51999900,
+                    "interest": 0,
+                    "total_value": 519999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/taladro-atornillador-percutor-caterpillar-catdx12-18v-y-maletin/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_663a326666b52-1760b5b03c592adbe617151159129634-1024-1024.webp"
+    },
+    {
+        "nombre": "Juego de 6 Destornilladores Tactix TX205426 STD/PH Cushion Grip",
+        "sku": "ME-TX205426",
+        "precio": 112049,
+        "precioDesc": 82999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 82999,
+                    "installment_value_cents": 8299900,
+                    "interest": 0,
+                    "total_value": 82999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 49110.5083,
+                    "installment_value_cents": 4911050.83,
+                    "interest": 0.1834,
+                    "total_value": 98221.0166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 27666.333333333,
+                    "installment_value_cents": 2766633.3333333,
+                    "interest": 0,
+                    "total_value": 82999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 13833.166666667,
+                    "installment_value_cents": 1383316.6666667,
+                    "interest": 0,
+                    "total_value": 82999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 9222.1111111111,
+                    "installment_value_cents": 922211.11111111,
+                    "interest": 0,
+                    "total_value": 82999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 6916.5833333333,
+                    "installment_value_cents": 691658.33333333,
+                    "interest": 0,
+                    "total_value": 82999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 82999,
+                    "installment_value_cents": 8299900,
+                    "interest": 0,
+                    "total_value": 82999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 82999,
+                    "installment_value_cents": 8299900,
+                    "interest": 0,
+                    "total_value": 82999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/juego-de-6-destornilladores-tactix-tx205426-std-ph-cushion-grip/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_663a38dfa4ef8-afe30d0c7d30e0197417151375119131-1024-1024.webp"
+    },
+    {
+        "nombre": "Hidrolavadora Kalydon KLDHI120 105 Bar 1500W Boquilla Regulable",
+        "sku": "ME-KLDHI120",
+        "precio": 237599,
+        "precioDesc": 175999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 175999,
+                    "installment_value_cents": 17599900,
+                    "interest": 0,
+                    "total_value": 175999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 104138.6083,
+                    "installment_value_cents": 10413860.83,
+                    "interest": 0.1834,
+                    "total_value": 208277.2166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 58666.333333333,
+                    "installment_value_cents": 5866633.3333333,
+                    "interest": 0,
+                    "total_value": 175999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 29333.166666667,
+                    "installment_value_cents": 2933316.6666667,
+                    "interest": 0,
+                    "total_value": 175999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 19555.444444444,
+                    "installment_value_cents": 1955544.4444444,
+                    "interest": 0,
+                    "total_value": 175999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 14666.583333333,
+                    "installment_value_cents": 1466658.3333333,
+                    "interest": 0,
+                    "total_value": 175999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 175999,
+                    "installment_value_cents": 17599900,
+                    "interest": 0,
+                    "total_value": 175999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 175999,
+                    "installment_value_cents": 17599900,
+                    "interest": 0,
+                    "total_value": 175999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/hidrolavadora-kalydon-kldhi120-105-bar-1500w-boquilla-regulable/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_663938a0cf927-63bdc7b2a536c83a6117151374716350-1024-1024.webp"
+    },
+    {
+        "nombre": "Taladro de Impacto Percutor Caterpillar CATDX175 600W 13mm",
+        "sku": "ME-CATDX175",
+        "precio": 129599,
+        "precioDesc": 95999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 95999,
+                    "installment_value_cents": 9599900,
+                    "interest": 0,
+                    "total_value": 95999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 56802.6083,
+                    "installment_value_cents": 5680260.83,
+                    "interest": 0.1834,
+                    "total_value": 113605.2166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 31999.666666667,
+                    "installment_value_cents": 3199966.6666667,
+                    "interest": 0,
+                    "total_value": 95999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 15999.833333333,
+                    "installment_value_cents": 1599983.3333333,
+                    "interest": 0,
+                    "total_value": 95999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 10666.555555556,
+                    "installment_value_cents": 1066655.5555556,
+                    "interest": 0,
+                    "total_value": 95999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 7999.9166666667,
+                    "installment_value_cents": 799991.66666667,
+                    "interest": 0,
+                    "total_value": 95999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 95999,
+                    "installment_value_cents": 9599900,
+                    "interest": 0,
+                    "total_value": 95999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 95999,
+                    "installment_value_cents": 9599900,
+                    "interest": 0,
+                    "total_value": 95999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/taladro-de-impacto-percutor-caterpillar-catdx175-600w-13mm/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_663a7194ca8fc-71835654fed67c7be417151375148959-1024-1024.webp"
+    },
+    {
+        "nombre": "Juego de 6 Destornilladores Tactix TX205601 Aislados STD/PH",
+        "sku": "ME-TX205601",
+        "precio": 63449,
+        "precioDesc": 46999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 46999,
+                    "installment_value_cents": 4699900,
+                    "interest": 0,
+                    "total_value": 46999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 27809.3083,
+                    "installment_value_cents": 2780930.83,
+                    "interest": 0.1834,
+                    "total_value": 55618.6166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 15666.333333333,
+                    "installment_value_cents": 1566633.3333333,
+                    "interest": 0,
+                    "total_value": 46999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 7833.1666666667,
+                    "installment_value_cents": 783316.66666667,
+                    "interest": 0,
+                    "total_value": 46999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 5222.1111111111,
+                    "installment_value_cents": 522211.11111111,
+                    "interest": 0,
+                    "total_value": 46999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 3916.5833333333,
+                    "installment_value_cents": 391658.33333333,
+                    "interest": 0,
+                    "total_value": 46999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 46999,
+                    "installment_value_cents": 4699900,
+                    "interest": 0,
+                    "total_value": 46999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 46999,
+                    "installment_value_cents": 4699900,
+                    "interest": 0,
+                    "total_value": 46999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/juego-de-6-destornilladores-tactix-tx205601-aislados-std-ph/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6644eae48bc2a-a26c70fae4e969ad5117206364513490-1024-1024.webp"
+    },
+    {
+        "nombre": "Cinta Metrica KLD 8Mts KLDCM8 Fleje 25 Mm",
+        "sku": "ME-KLDCM8",
+        "precio": 24299,
+        "precioDesc": 17999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 17999,
+                    "installment_value_cents": 1799900,
+                    "interest": 0,
+                    "total_value": 17999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 10650.0083,
+                    "installment_value_cents": 1065000.83,
+                    "interest": 0.1834,
+                    "total_value": 21300.0166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 5999.6666666667,
+                    "installment_value_cents": 599966.66666667,
+                    "interest": 0,
+                    "total_value": 17999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 2999.8333333333,
+                    "installment_value_cents": 299983.33333333,
+                    "interest": 0,
+                    "total_value": 17999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 1999.8888888889,
+                    "installment_value_cents": 199988.88888889,
+                    "interest": 0,
+                    "total_value": 17999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 1499.9166666667,
+                    "installment_value_cents": 149991.66666667,
+                    "interest": 0,
+                    "total_value": 17999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 17999,
+                    "installment_value_cents": 1799900,
+                    "interest": 0,
+                    "total_value": 17999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 17999,
+                    "installment_value_cents": 1799900,
+                    "interest": 0,
+                    "total_value": 17999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/cinta-metrica-kld-8mts-kldcm8-fleje-25-mm/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_653139fc7ee83-9b90545000159e728217206374072263-1024-1024.webp"
+    },
+    {
+        "nombre": "Juego Puntas Para Atornillador CAT DA01901 32 Piezas",
+        "sku": "ME-CATDA01901",
+        "precio": 40499,
+        "precioDesc": 29999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 29999,
+                    "installment_value_cents": 2999900,
+                    "interest": 0,
+                    "total_value": 29999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 17750.4083,
+                    "installment_value_cents": 1775040.83,
+                    "interest": 0.1834,
+                    "total_value": 35500.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 9999.6666666667,
+                    "installment_value_cents": 999966.66666667,
+                    "interest": 0,
+                    "total_value": 29999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 4999.8333333333,
+                    "installment_value_cents": 499983.33333333,
+                    "interest": 0,
+                    "total_value": 29999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 3333.2222222222,
+                    "installment_value_cents": 333322.22222222,
+                    "interest": 0,
+                    "total_value": 29999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 2499.9166666667,
+                    "installment_value_cents": 249991.66666667,
+                    "interest": 0,
+                    "total_value": 29999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 29999,
+                    "installment_value_cents": 2999900,
+                    "interest": 0,
+                    "total_value": 29999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 29999,
+                    "installment_value_cents": 2999900,
+                    "interest": 0,
+                    "total_value": 29999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/juego-puntas-para-atornillador-cat-da01901-32-piezas/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_652eeeeab6d32-b4c7a6e717d06960f317151154268588-1024-1024.webp"
+    },
+    {
+        "nombre": "Juego de Puntas Para Atornillar CAT DA01902 45 Piezas",
+        "sku": "ME-CATDA01902",
+        "precio": 67499,
+        "precioDesc": 49999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 49999,
+                    "installment_value_cents": 4999900,
+                    "interest": 0,
+                    "total_value": 49999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 29584.4083,
+                    "installment_value_cents": 2958440.83,
+                    "interest": 0.1834,
+                    "total_value": 59168.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 16666.333333333,
+                    "installment_value_cents": 1666633.3333333,
+                    "interest": 0,
+                    "total_value": 49999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 8333.1666666667,
+                    "installment_value_cents": 833316.66666667,
+                    "interest": 0,
+                    "total_value": 49999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 5555.4444444444,
+                    "installment_value_cents": 555544.44444444,
+                    "interest": 0,
+                    "total_value": 49999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 4166.5833333333,
+                    "installment_value_cents": 416658.33333333,
+                    "interest": 0,
+                    "total_value": 49999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 49999,
+                    "installment_value_cents": 4999900,
+                    "interest": 0,
+                    "total_value": 49999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 49999,
+                    "installment_value_cents": 4999900,
+                    "interest": 0,
+                    "total_value": 49999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/juego-de-puntas-para-atornillar-cat-da01902-45-piezas/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6530160ad40a7-40c601a8155b973af317151322883602-1024-1024.webp"
+    },
+    {
+        "nombre": "Set de 27 Puntas Atornillador y Mechas Stanley STA4310",
+        "sku": "ME-STA4310",
+        "precio": 45224,
+        "precioDesc": 33499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 33499,
+                    "installment_value_cents": 3349900,
+                    "interest": 0,
+                    "total_value": 33499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 19821.3583,
+                    "installment_value_cents": 1982135.83,
+                    "interest": 0.1834,
+                    "total_value": 39642.7166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 11166.333333333,
+                    "installment_value_cents": 1116633.3333333,
+                    "interest": 0,
+                    "total_value": 33499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 5583.1666666667,
+                    "installment_value_cents": 558316.66666667,
+                    "interest": 0,
+                    "total_value": 33499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 3722.1111111111,
+                    "installment_value_cents": 372211.11111111,
+                    "interest": 0,
+                    "total_value": 33499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 2791.5833333333,
+                    "installment_value_cents": 279158.33333333,
+                    "interest": 0,
+                    "total_value": 33499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 33499,
+                    "installment_value_cents": 3349900,
+                    "interest": 0,
+                    "total_value": 33499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 33499,
+                    "installment_value_cents": 3349900,
+                    "interest": 0,
+                    "total_value": 33499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/set-de-27-puntas-atornillador-y-mechas-stanley-sta4310/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_65301bd13cb99-0325974c3e52ed25f817206373067117-1024-1024.webp"
+    },
+    {
+        "nombre": "Sierra Circular Caterpillar CATDX59 1400W 185Mm 5800Rpm",
+        "sku": "ME-CATDX59",
+        "precio": 259874,
+        "precioDesc": 192499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 192499,
+                    "installment_value_cents": 19249900,
+                    "interest": 0,
+                    "total_value": 192499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 113901.6583,
+                    "installment_value_cents": 11390165.83,
+                    "interest": 0.1834,
+                    "total_value": 227803.3166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 64166.333333333,
+                    "installment_value_cents": 6416633.3333333,
+                    "interest": 0,
+                    "total_value": 192499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 32083.166666667,
+                    "installment_value_cents": 3208316.6666667,
+                    "interest": 0,
+                    "total_value": 192499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 21388.777777778,
+                    "installment_value_cents": 2138877.7777778,
+                    "interest": 0,
+                    "total_value": 192499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 16041.583333333,
+                    "installment_value_cents": 1604158.3333333,
+                    "interest": 0,
+                    "total_value": 192499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 192499,
+                    "installment_value_cents": 19249900,
+                    "interest": 0,
+                    "total_value": 192499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 192499,
+                    "installment_value_cents": 19249900,
+                    "interest": 0,
+                    "total_value": 192499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/sierra-circular-caterpillar-catdx59-1400w-185mm-5800rpm/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_652eed51481e6-0978eba33ab8e2851317151459665600-1024-1024.webp"
+    },
+    {
+        "nombre": "Sierra Caladora Caterpillar CATDX54 750W 3000Rpm 4Posiciones",
+        "sku": "ME-CATDX54",
+        "precio": 245699,
+        "precioDesc": 181999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 181999,
+                    "installment_value_cents": 18199900,
+                    "interest": 0,
+                    "total_value": 181999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 107688.8083,
+                    "installment_value_cents": 10768880.83,
+                    "interest": 0.1834,
+                    "total_value": 215377.6166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 60666.333333333,
+                    "installment_value_cents": 6066633.3333333,
+                    "interest": 0,
+                    "total_value": 181999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 30333.166666667,
+                    "installment_value_cents": 3033316.6666667,
+                    "interest": 0,
+                    "total_value": 181999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 20222.111111111,
+                    "installment_value_cents": 2022211.1111111,
+                    "interest": 0,
+                    "total_value": 181999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 15166.583333333,
+                    "installment_value_cents": 1516658.3333333,
+                    "interest": 0,
+                    "total_value": 181999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 181999,
+                    "installment_value_cents": 18199900,
+                    "interest": 0,
+                    "total_value": 181999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 181999,
+                    "installment_value_cents": 18199900,
+                    "interest": 0,
+                    "total_value": 181999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/sierra-caladora-caterpillar-catdx54-750w-3000rpm-4posiciones/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_652ff35ec60cc-acefc910fa8487718b17206373275946-1024-1024.webp"
+    },
+    {
+        "nombre": "Amoladora Angular 4,5\" Caterpillar CATDX371 750W 115mm",
+        "sku": "ME-CATDX371",
+        "precio": 133379,
+        "precioDesc": 98799,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 98799,
+                    "installment_value_cents": 9879900,
+                    "interest": 0,
+                    "total_value": 98799,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 58459.3683,
+                    "installment_value_cents": 5845936.83,
+                    "interest": 0.1834,
+                    "total_value": 116918.7366,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 32933,
+                    "installment_value_cents": 3293300,
+                    "interest": 0,
+                    "total_value": 98799,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 16466.5,
+                    "installment_value_cents": 1646650,
+                    "interest": 0,
+                    "total_value": 98799,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 10977.666666667,
+                    "installment_value_cents": 1097766.6666667,
+                    "interest": 0,
+                    "total_value": 98799,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 8233.25,
+                    "installment_value_cents": 823325,
+                    "interest": 0,
+                    "total_value": 98799,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 98799,
+                    "installment_value_cents": 9879900,
+                    "interest": 0,
+                    "total_value": 98799,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 98799,
+                    "installment_value_cents": 9879900,
+                    "interest": 0,
+                    "total_value": 98799,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/amoladora-angular-45-caterpillar-catdx371-750w-115mm/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_652fed046393f-e43c2f0548e635cd9b17206373561000-1024-1024.webp"
+    },
+    {
+        "nombre": "Amoladora Angular Caterpillar 4,5\" DX3711K Maleta y Discos",
+        "sku": "ME-CATDX3711K",
+        "precio": 209249,
+        "precioDesc": 154999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 154999,
+                    "installment_value_cents": 15499900,
+                    "interest": 0,
+                    "total_value": 154999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 91712.9083,
+                    "installment_value_cents": 9171290.83,
+                    "interest": 0.1834,
+                    "total_value": 183425.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 51666.333333333,
+                    "installment_value_cents": 5166633.3333333,
+                    "interest": 0,
+                    "total_value": 154999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 25833.166666667,
+                    "installment_value_cents": 2583316.6666667,
+                    "interest": 0,
+                    "total_value": 154999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 17222.111111111,
+                    "installment_value_cents": 1722211.1111111,
+                    "interest": 0,
+                    "total_value": 154999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 12916.583333333,
+                    "installment_value_cents": 1291658.3333333,
+                    "interest": 0,
+                    "total_value": 154999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 154999,
+                    "installment_value_cents": 15499900,
+                    "interest": 0,
+                    "total_value": 154999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 154999,
+                    "installment_value_cents": 15499900,
+                    "interest": 0,
+                    "total_value": 154999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/amoladora-angular-caterpillar-45-dx3711k-maleta-y-discos/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_652fe6ece0ca7-59dbedba603c27cdbe17151459102611-1024-1024.webp"
+    },
+    {
+        "nombre": "Taladro Percutor Caterpillar CATDX171K Con Maleta y Mechas",
+        "sku": "ME-CATDX171K",
+        "precio": 184409,
+        "precioDesc": 139599,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 139599,
+                    "installment_value_cents": 13959900,
+                    "interest": 0,
+                    "total_value": 139599,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 82600.7283,
+                    "installment_value_cents": 8260072.83,
+                    "interest": 0.1834,
+                    "total_value": 165201.4566,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 46533,
+                    "installment_value_cents": 4653300,
+                    "interest": 0,
+                    "total_value": 139599,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 23266.5,
+                    "installment_value_cents": 2326650,
+                    "interest": 0,
+                    "total_value": 139599,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 15511,
+                    "installment_value_cents": 1551100,
+                    "interest": 0,
+                    "total_value": 139599,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 11633.25,
+                    "installment_value_cents": 1163325,
+                    "interest": 0,
+                    "total_value": 139599,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 139599,
+                    "installment_value_cents": 13959900,
+                    "interest": 0,
+                    "total_value": 139599,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 139599,
+                    "installment_value_cents": 13959900,
+                    "interest": 0,
+                    "total_value": 139599,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/taladro-percutor-caterpillar-catdx171k-con-maleta-y-mechas/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_652fd851bb8d6-5678a088091447de3e17206373816974-1024-1024.webp"
+    },
+    {
+        "nombre": "Taladro Percutor Caterpillar CATDX17 13Mm 750W",
+        "sku": "ME-CATDX17",
+        "precio": 140399,
+        "precioDesc": 103999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 103999,
+                    "installment_value_cents": 10399900,
+                    "interest": 0,
+                    "total_value": 103999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 61536.2083,
+                    "installment_value_cents": 6153620.83,
+                    "interest": 0.1834,
+                    "total_value": 123072.4166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 34666.333333333,
+                    "installment_value_cents": 3466633.3333333,
+                    "interest": 0,
+                    "total_value": 103999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 17333.166666667,
+                    "installment_value_cents": 1733316.6666667,
+                    "interest": 0,
+                    "total_value": 103999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 11555.444444444,
+                    "installment_value_cents": 1155544.4444444,
+                    "interest": 0,
+                    "total_value": 103999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 8666.5833333333,
+                    "installment_value_cents": 866658.33333333,
+                    "interest": 0,
+                    "total_value": 103999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 103999,
+                    "installment_value_cents": 10399900,
+                    "interest": 0,
+                    "total_value": 103999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 103999,
+                    "installment_value_cents": 10399900,
+                    "interest": 0,
+                    "total_value": 103999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/taladro-percutor-caterpillar-catdx17-13mm-750w/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_65301f2734a6c-556bac0cbc661f976d17206372791126-1024-1024.webp"
+    },
+    {
+        "nombre": "Taladro Electrico Percutor Stanley SDH600 13mm 600W",
+        "sku": "ME-SDH600",
+        "precio": 143099,
+        "precioDesc": 105999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 105999,
+                    "installment_value_cents": 10599900,
+                    "interest": 0,
+                    "total_value": 105999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 62719.6083,
+                    "installment_value_cents": 6271960.83,
+                    "interest": 0.1834,
+                    "total_value": 125439.2166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 35333,
+                    "installment_value_cents": 3533300,
+                    "interest": 0,
+                    "total_value": 105999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 17666.5,
+                    "installment_value_cents": 1766650,
+                    "interest": 0,
+                    "total_value": 105999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 11777.666666667,
+                    "installment_value_cents": 1177766.6666667,
+                    "interest": 0,
+                    "total_value": 105999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 8833.25,
+                    "installment_value_cents": 883325,
+                    "interest": 0,
+                    "total_value": 105999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 105999,
+                    "installment_value_cents": 10599900,
+                    "interest": 0,
+                    "total_value": 105999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 105999,
+                    "installment_value_cents": 10599900,
+                    "interest": 0,
+                    "total_value": 105999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "herramientas",
+        "url": "https://www.emoodmarket.com/productos/taladro-electrico-percutor-stanley-sdh600-13mm-600w/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_64ec959e854a0-f79373812811b353aa17206288368463-1024-1024.webp"
+    }
+]

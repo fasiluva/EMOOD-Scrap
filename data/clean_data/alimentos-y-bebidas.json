@@ -1,0 +1,2338 @@
+[
+    {
+        "nombre": "60 Capsulas De Caf\u00e9 Macchiato Compatible Maquina Nespresso",
+        "sku": "CA800",
+        "precio": 72091,
+        "precioDesc": 68999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 40826.7083,
+                    "installment_value_cents": 4082670.83,
+                    "interest": 0.1834,
+                    "total_value": 81653.4166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 22999.666666667,
+                    "installment_value_cents": 2299966.6666667,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 11499.833333333,
+                    "installment_value_cents": 1149983.3333333,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 7666.5555555556,
+                    "installment_value_cents": 766655.55555556,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 5749.9166666667,
+                    "installment_value_cents": 574991.66666667,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/60-capsulas-de-cafe-macchiato-compatible-maquina-nespresso/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_626989ef5a721-a8e2ec64befa74e82a17151036238678-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Decaf Compatible Nespresso X 60 Unidades",
+        "sku": "CA562",
+        "precio": 72091,
+        "precioDesc": 68999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 40826.7083,
+                    "installment_value_cents": 4082670.83,
+                    "interest": 0.1834,
+                    "total_value": 81653.4166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 22999.666666667,
+                    "installment_value_cents": 2299966.6666667,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 11499.833333333,
+                    "installment_value_cents": 1149983.3333333,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 7666.5555555556,
+                    "installment_value_cents": 766655.55555556,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 5749.9166666667,
+                    "installment_value_cents": 574991.66666667,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-decaf-compatible-nespresso-x-60-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6641767e65d59-1d28e8e22b2038e26a17234863539955-1024-1024.webp"
+    },
+    {
+        "nombre": "120 Capsulas De Caf\u00e9 Macchiato Compatible Maquina Nespresso",
+        "sku": "CA802",
+        "precio": 144181,
+        "precioDesc": 137999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 137999,
+                    "installment_value_cents": 13799900,
+                    "interest": 0,
+                    "total_value": 137999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 81654.0083,
+                    "installment_value_cents": 8165400.83,
+                    "interest": 0.1834,
+                    "total_value": 163308.0166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 45999.666666667,
+                    "installment_value_cents": 4599966.6666667,
+                    "interest": 0,
+                    "total_value": 137999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 22999.833333333,
+                    "installment_value_cents": 2299983.3333333,
+                    "interest": 0,
+                    "total_value": 137999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 15333.222222222,
+                    "installment_value_cents": 1533322.2222222,
+                    "interest": 0,
+                    "total_value": 137999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 11499.916666667,
+                    "installment_value_cents": 1149991.6666667,
+                    "interest": 0,
+                    "total_value": 137999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 137999,
+                    "installment_value_cents": 13799900,
+                    "interest": 0,
+                    "total_value": 137999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 137999,
+                    "installment_value_cents": 13799900,
+                    "interest": 0,
+                    "total_value": 137999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/120-capsulas-de-cafe-macchiato-compatible-maquina-nespresso/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_626989f7699e2-69ca9f0728b2b9a61417151048202542-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Nero Compatible Nespresso X 60 Unidades",
+        "sku": "CA560",
+        "precio": 72091,
+        "precioDesc": 68999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 40826.7083,
+                    "installment_value_cents": 4082670.83,
+                    "interest": 0.1834,
+                    "total_value": 81653.4166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 22999.666666667,
+                    "installment_value_cents": 2299966.6666667,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 11499.833333333,
+                    "installment_value_cents": 1149983.3333333,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 7666.5555555556,
+                    "installment_value_cents": 766655.55555556,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 5749.9166666667,
+                    "installment_value_cents": 574991.66666667,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-nero-compatible-nespresso-x-60-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6644cdf911666-e332bcc1be5975e46f17157853313024-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Nero Compatible Nespresso X 30 Unidades",
+        "sku": "CA530",
+        "precio": 36046,
+        "precioDesc": 34499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 20413.0583,
+                    "installment_value_cents": 2041305.83,
+                    "interest": 0.1834,
+                    "total_value": 40826.1166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 11499.666666667,
+                    "installment_value_cents": 1149966.6666667,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 5749.8333333333,
+                    "installment_value_cents": 574983.33333333,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 3833.2222222222,
+                    "installment_value_cents": 383322.22222222,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 2874.9166666667,
+                    "installment_value_cents": 287491.66666667,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-nero-compatible-nespresso-x-30-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6622a0cc76d33-09a5e1db32bbf816a517150273974787-1024-1024.webp"
+    },
+    {
+        "nombre": "90 Capsulas De Caf\u00e9 Macchiato Compatible Maquina Nespresso",
+        "sku": "CA801",
+        "precio": 108136,
+        "precioDesc": 103499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 103499,
+                    "installment_value_cents": 10349900,
+                    "interest": 0,
+                    "total_value": 103499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 61240.3583,
+                    "installment_value_cents": 6124035.83,
+                    "interest": 0.1834,
+                    "total_value": 122480.7166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 34499.666666667,
+                    "installment_value_cents": 3449966.6666667,
+                    "interest": 0,
+                    "total_value": 103499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 17249.833333333,
+                    "installment_value_cents": 1724983.3333333,
+                    "interest": 0,
+                    "total_value": 103499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 11499.888888889,
+                    "installment_value_cents": 1149988.8888889,
+                    "interest": 0,
+                    "total_value": 103499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 8624.9166666667,
+                    "installment_value_cents": 862491.66666667,
+                    "interest": 0,
+                    "total_value": 103499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 103499,
+                    "installment_value_cents": 10349900,
+                    "interest": 0,
+                    "total_value": 103499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 103499,
+                    "installment_value_cents": 10349900,
+                    "interest": 0,
+                    "total_value": 103499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/90-capsulas-de-cafe-macchiato-compatible-maquina-nespresso/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_626989f3548f1-6ba50fa4787f13336717151047706494-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Nero Compatible Nespresso X 10 Unidades",
+        "sku": "CA500",
+        "precio": 12016,
+        "precioDesc": 11499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 6803.9583,
+                    "installment_value_cents": 680395.83,
+                    "interest": 0.1834,
+                    "total_value": 13607.9166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 3833,
+                    "installment_value_cents": 383300,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 1916.5,
+                    "installment_value_cents": 191650,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 1277.6666666667,
+                    "installment_value_cents": 127766.66666667,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 958.25,
+                    "installment_value_cents": 95825,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-nero-compatible-nespresso-x-10-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_66451ca587040-5556b4fc933742bfe717158117280906-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Decaf Compatible Nespresso X 30 Unidades",
+        "sku": "CA532",
+        "precio": 36046,
+        "precioDesc": 34499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 20413.0583,
+                    "installment_value_cents": 2041305.83,
+                    "interest": 0.1834,
+                    "total_value": 40826.1166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 11499.666666667,
+                    "installment_value_cents": 1149966.6666667,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 5749.8333333333,
+                    "installment_value_cents": 574983.33333333,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 3833.2222222222,
+                    "installment_value_cents": 383322.22222222,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 2874.9166666667,
+                    "installment_value_cents": 287491.66666667,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-decaf-compatible-nespresso-x-30-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_66229fc04e2c9-6b4812b9578b0d82bb17151047412599-1024-1024.webp"
+    },
+    {
+        "nombre": "Cafe Macchiato Molido 3 Lata x 250 Gramos",
+        "sku": "CA850-3",
+        "precio": 65813,
+        "precioDesc": 48749,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 48749,
+                    "installment_value_cents": 4874900,
+                    "interest": 0,
+                    "total_value": 48749,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 28844.7833,
+                    "installment_value_cents": 2884478.33,
+                    "interest": 0.1834,
+                    "total_value": 57689.5666,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 16249.666666667,
+                    "installment_value_cents": 1624966.6666667,
+                    "interest": 0,
+                    "total_value": 48749,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 8124.8333333333,
+                    "installment_value_cents": 812483.33333333,
+                    "interest": 0,
+                    "total_value": 48749,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 5416.5555555556,
+                    "installment_value_cents": 541655.55555556,
+                    "interest": 0,
+                    "total_value": 48749,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 4062.4166666667,
+                    "installment_value_cents": 406241.66666667,
+                    "interest": 0,
+                    "total_value": 48749,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 48749,
+                    "installment_value_cents": 4874900,
+                    "interest": 0,
+                    "total_value": 48749,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 48749,
+                    "installment_value_cents": 4874900,
+                    "interest": 0,
+                    "total_value": 48749,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/cafe-macchiato-molido-3-lata-x-250-gramos/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_627ac32974b6b-7336ae783b93eaf9c817151046704225-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Lungo Compatible Nespresso X 60 Unidades",
+        "sku": "CA565",
+        "precio": 72091,
+        "precioDesc": 68999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 40826.7083,
+                    "installment_value_cents": 4082670.83,
+                    "interest": 0.1834,
+                    "total_value": 81653.4166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 22999.666666667,
+                    "installment_value_cents": 2299966.6666667,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 11499.833333333,
+                    "installment_value_cents": 1149983.3333333,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 7666.5555555556,
+                    "installment_value_cents": 766655.55555556,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 5749.9166666667,
+                    "installment_value_cents": 574991.66666667,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-lungo-compatible-nespresso-x-60-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6644debb2cbf2-a28f6dacc31131c3bd17159664586109-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Decaf Compatible Nespresso X 10 Unidades",
+        "sku": "CA502",
+        "precio": 12016,
+        "precioDesc": 11499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 6803.9583,
+                    "installment_value_cents": 680395.83,
+                    "interest": 0.1834,
+                    "total_value": 13607.9166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 3833,
+                    "installment_value_cents": 383300,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 1916.5,
+                    "installment_value_cents": 191650,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 1277.6666666667,
+                    "installment_value_cents": 127766.66666667,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 958.25,
+                    "installment_value_cents": 95825,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-decaf-compatible-nespresso-x-10-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_66215182b96d3-5e13fed1e93e6b541317151047108960-1024-1024.webp"
+    },
+    {
+        "nombre": "Cafe Macchiato en Grano por 3 Latas de 250 Gramos",
+        "sku": "CA851-3",
+        "precio": 65813,
+        "precioDesc": 48749,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 48749,
+                    "installment_value_cents": 4874900,
+                    "interest": 0,
+                    "total_value": 48749,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 28844.7833,
+                    "installment_value_cents": 2884478.33,
+                    "interest": 0.1834,
+                    "total_value": 57689.5666,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 16249.666666667,
+                    "installment_value_cents": 1624966.6666667,
+                    "interest": 0,
+                    "total_value": 48749,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 8124.8333333333,
+                    "installment_value_cents": 812483.33333333,
+                    "interest": 0,
+                    "total_value": 48749,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 5416.5555555556,
+                    "installment_value_cents": 541655.55555556,
+                    "interest": 0,
+                    "total_value": 48749,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 4062.4166666667,
+                    "installment_value_cents": 406241.66666667,
+                    "interest": 0,
+                    "total_value": 48749,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 48749,
+                    "installment_value_cents": 4874900,
+                    "interest": 0,
+                    "total_value": 48749,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 48749,
+                    "installment_value_cents": 4874900,
+                    "interest": 0,
+                    "total_value": 48749,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/cafe-macchiato-en-grano-por-3-latas-de-250-gramos/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_627ac32936188-eef0242f2eea59942717151046524456-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Lungo Compatible Nespresso X 30 Unidades",
+        "sku": "CA535",
+        "precio": 36046,
+        "precioDesc": 34499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 20413.0583,
+                    "installment_value_cents": 2041305.83,
+                    "interest": 0.1834,
+                    "total_value": 40826.1166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 11499.666666667,
+                    "installment_value_cents": 1149966.6666667,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 5749.8333333333,
+                    "installment_value_cents": 574983.33333333,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 3833.2222222222,
+                    "installment_value_cents": 383322.22222222,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 2874.9166666667,
+                    "installment_value_cents": 287491.66666667,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-lungo-compatible-nespresso-x-30-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6644cd69908dc-298ceef9ab2a0d782c17157853143239-1024-1024.webp"
+    },
+    {
+        "nombre": "Cafe Macchiato Grano 2 Latas de 250 Gramos",
+        "sku": "CA851-2",
+        "precio": 43876,
+        "precioDesc": 32499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 32499,
+                    "installment_value_cents": 3249900,
+                    "interest": 0,
+                    "total_value": 32499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 19229.6583,
+                    "installment_value_cents": 1922965.83,
+                    "interest": 0.1834,
+                    "total_value": 38459.3166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 10833,
+                    "installment_value_cents": 1083300,
+                    "interest": 0,
+                    "total_value": 32499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 5416.5,
+                    "installment_value_cents": 541650,
+                    "interest": 0,
+                    "total_value": 32499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 3611,
+                    "installment_value_cents": 361100,
+                    "interest": 0,
+                    "total_value": 32499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 2708.25,
+                    "installment_value_cents": 270825,
+                    "interest": 0,
+                    "total_value": 32499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 32499,
+                    "installment_value_cents": 3249900,
+                    "interest": 0,
+                    "total_value": 32499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 32499,
+                    "installment_value_cents": 3249900,
+                    "interest": 0,
+                    "total_value": 32499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/cafe-macchiato-grano-2-latas-de-250-gramos/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_627ac3290994c-50caa352fcadfc906c17151046349243-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Nostro Compatible Nespresso X 60 Unidades",
+        "sku": "CA564",
+        "precio": 72091,
+        "precioDesc": 68999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 40826.7083,
+                    "installment_value_cents": 4082670.83,
+                    "interest": 0.1834,
+                    "total_value": 81653.4166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 22999.666666667,
+                    "installment_value_cents": 2299966.6666667,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 11499.833333333,
+                    "installment_value_cents": 1149983.3333333,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 7666.5555555556,
+                    "installment_value_cents": 766655.55555556,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 5749.9166666667,
+                    "installment_value_cents": 574991.66666667,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-nostro-compatible-nespresso-x-60-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6644c9e52f3b9-bed24358b386f6e13117157846477053-1024-1024.webp"
+    },
+    {
+        "nombre": "Cafe Macchiato Molido 2 Latas de 250 Gramos",
+        "sku": "CA850-2",
+        "precio": 43876,
+        "precioDesc": 32499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 32499,
+                    "installment_value_cents": 3249900,
+                    "interest": 0,
+                    "total_value": 32499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 19229.6583,
+                    "installment_value_cents": 1922965.83,
+                    "interest": 0.1834,
+                    "total_value": 38459.3166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 10833,
+                    "installment_value_cents": 1083300,
+                    "interest": 0,
+                    "total_value": 32499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 5416.5,
+                    "installment_value_cents": 541650,
+                    "interest": 0,
+                    "total_value": 32499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 3611,
+                    "installment_value_cents": 361100,
+                    "interest": 0,
+                    "total_value": 32499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 2708.25,
+                    "installment_value_cents": 270825,
+                    "interest": 0,
+                    "total_value": 32499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 32499,
+                    "installment_value_cents": 3249900,
+                    "interest": 0,
+                    "total_value": 32499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 32499,
+                    "installment_value_cents": 3249900,
+                    "interest": 0,
+                    "total_value": 32499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/cafe-macchiato-molido-2-latas-de-250-gramos/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_627ac328d44e5-2b51e8d89f45514c5f17151046135442-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Lungo Compatible Nespresso X 10 Unidades",
+        "sku": "CA505",
+        "precio": 12016,
+        "precioDesc": 11499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 6803.9583,
+                    "installment_value_cents": 680395.83,
+                    "interest": 0.1834,
+                    "total_value": 13607.9166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 3833,
+                    "installment_value_cents": 383300,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 1916.5,
+                    "installment_value_cents": 191650,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 1277.6666666667,
+                    "installment_value_cents": 127766.66666667,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 958.25,
+                    "installment_value_cents": 95825,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-lungo-compatible-nespresso-x-10-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6621523a763aa-a2b4537df450d4020017150266341394-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Nostro Compatible Nespresso X 30 Unidades",
+        "sku": "CA534",
+        "precio": 36046,
+        "precioDesc": 34499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 20413.0583,
+                    "installment_value_cents": 2041305.83,
+                    "interest": 0.1834,
+                    "total_value": 40826.1166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 11499.666666667,
+                    "installment_value_cents": 1149966.6666667,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 5749.8333333333,
+                    "installment_value_cents": 574983.33333333,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 3833.2222222222,
+                    "installment_value_cents": 383322.22222222,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 2874.9166666667,
+                    "installment_value_cents": 287491.66666667,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-nostro-compatible-nespresso-x-30-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6644dab69735e-9e16b73a5c2c8b84f617157895583776-1024-1024.webp"
+    },
+    {
+        "nombre": "Cafe Macchiato Grano 4 Latas de 250 Gramos",
+        "sku": "CA851-4",
+        "precio": 87751,
+        "precioDesc": 64999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 64999,
+                    "installment_value_cents": 6499900,
+                    "interest": 0,
+                    "total_value": 64999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 38459.9083,
+                    "installment_value_cents": 3845990.83,
+                    "interest": 0.1834,
+                    "total_value": 76919.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 21666.333333333,
+                    "installment_value_cents": 2166633.3333333,
+                    "interest": 0,
+                    "total_value": 64999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 10833.166666667,
+                    "installment_value_cents": 1083316.6666667,
+                    "interest": 0,
+                    "total_value": 64999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 7222.1111111111,
+                    "installment_value_cents": 722211.11111111,
+                    "interest": 0,
+                    "total_value": 64999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 5416.5833333333,
+                    "installment_value_cents": 541658.33333333,
+                    "interest": 0,
+                    "total_value": 64999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 64999,
+                    "installment_value_cents": 6499900,
+                    "interest": 0,
+                    "total_value": 64999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 64999,
+                    "installment_value_cents": 6499900,
+                    "interest": 0,
+                    "total_value": 64999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/cafe-macchiato-grano-4-latas-de-250-gramos/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_627ac328a78c7-699f1c3abf3a503cfc17151045938948-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Tradizionale Compatible Nespresso X 60 Unidades",
+        "sku": "CA561",
+        "precio": 72091,
+        "precioDesc": 68999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 40826.7083,
+                    "installment_value_cents": 4082670.83,
+                    "interest": 0.1834,
+                    "total_value": 81653.4166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 22999.666666667,
+                    "installment_value_cents": 2299966.6666667,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 11499.833333333,
+                    "installment_value_cents": 1149983.3333333,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 7666.5555555556,
+                    "installment_value_cents": 766655.55555556,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 5749.9166666667,
+                    "installment_value_cents": 574991.66666667,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-tradizionale-compatible-nespresso-x-60-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6644cdd656276-d27ac574128eb65df617157853376876-1024-1024.webp"
+    },
+    {
+        "nombre": "Cafe Macchiato Molido 4 Latas de 250 Gramos",
+        "sku": "CA850-4",
+        "precio": 87751,
+        "precioDesc": 64999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 64999,
+                    "installment_value_cents": 6499900,
+                    "interest": 0,
+                    "total_value": 64999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 38459.9083,
+                    "installment_value_cents": 3845990.83,
+                    "interest": 0.1834,
+                    "total_value": 76919.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 21666.333333333,
+                    "installment_value_cents": 2166633.3333333,
+                    "interest": 0,
+                    "total_value": 64999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 10833.166666667,
+                    "installment_value_cents": 1083316.6666667,
+                    "interest": 0,
+                    "total_value": 64999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 7222.1111111111,
+                    "installment_value_cents": 722211.11111111,
+                    "interest": 0,
+                    "total_value": 64999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 5416.5833333333,
+                    "installment_value_cents": 541658.33333333,
+                    "interest": 0,
+                    "total_value": 64999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 64999,
+                    "installment_value_cents": 6499900,
+                    "interest": 0,
+                    "total_value": 64999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 64999,
+                    "installment_value_cents": 6499900,
+                    "interest": 0,
+                    "total_value": 64999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/cafe-macchiato-molido-4-latas-de-250-gramos/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_627ac3285f161-f063d1f8831db5e51117151045753160-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Nostro Compatible Nespresso X 10 Unidades",
+        "sku": "CA504",
+        "precio": 12016,
+        "precioDesc": 11499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 6803.9583,
+                    "installment_value_cents": 680395.83,
+                    "interest": 0.1834,
+                    "total_value": 13607.9166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 3833,
+                    "installment_value_cents": 383300,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 1916.5,
+                    "installment_value_cents": 191650,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 1277.6666666667,
+                    "installment_value_cents": 127766.66666667,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 958.25,
+                    "installment_value_cents": 95825,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-nostro-compatible-nespresso-x-10-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_662152ae6bf5e-5e6b9055246c6b35c317150269302250-1024-1024.webp"
+    },
+    {
+        "nombre": "Lata De Caf\u00e9 Tostado Macchiato en Grano por 250 Gramos",
+        "sku": "CA851",
+        "precio": 20251,
+        "precioDesc": 14999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 14999,
+                    "installment_value_cents": 1499900,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 8874.9083,
+                    "installment_value_cents": 887490.83,
+                    "interest": 0.1834,
+                    "total_value": 17749.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 4999.6666666667,
+                    "installment_value_cents": 499966.66666667,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 2499.8333333333,
+                    "installment_value_cents": 249983.33333333,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 1666.5555555556,
+                    "installment_value_cents": 166655.55555556,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 1249.9166666667,
+                    "installment_value_cents": 124991.66666667,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 14999,
+                    "installment_value_cents": 1499900,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 14999,
+                    "installment_value_cents": 1499900,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/lata-de-cafe-tostado-macchiato-en-grano-por-250-gramos/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_62698a0351936-b7750b1e2182af460917151045540698-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Tradizionale Compatible Nespresso X 30 Unidades",
+        "sku": "CA531",
+        "precio": 36046,
+        "precioDesc": 34499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 20413.0583,
+                    "installment_value_cents": 2041305.83,
+                    "interest": 0.1834,
+                    "total_value": 40826.1166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 11499.666666667,
+                    "installment_value_cents": 1149966.6666667,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 5749.8333333333,
+                    "installment_value_cents": 574983.33333333,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 3833.2222222222,
+                    "installment_value_cents": 383322.22222222,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 2874.9166666667,
+                    "installment_value_cents": 287491.66666667,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-tradizionale-compatible-nespresso-x-30-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6622a1a061c32-8945ad433ec6223bfa17150246006736-1024-1024.webp"
+    },
+    {
+        "nombre": "Lata De Caf\u00e9 Macchiato Molido de 250 Gramos",
+        "sku": "CA850",
+        "precio": 20251,
+        "precioDesc": 14999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 14999,
+                    "installment_value_cents": 1499900,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 8874.9083,
+                    "installment_value_cents": 887490.83,
+                    "interest": 0.1834,
+                    "total_value": 17749.8166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 4999.6666666667,
+                    "installment_value_cents": 499966.66666667,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 2499.8333333333,
+                    "installment_value_cents": 249983.33333333,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 1666.5555555556,
+                    "installment_value_cents": 166655.55555556,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 1249.9166666667,
+                    "installment_value_cents": 124991.66666667,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 14999,
+                    "installment_value_cents": 1499900,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 14999,
+                    "installment_value_cents": 1499900,
+                    "interest": 0,
+                    "total_value": 14999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/lata-de-cafe-macchiato-molido-de-250-gramos/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_62698a02e0026-d729f56fd142b6782517151045351140-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Forte Compatible Nespresso X 60 Unidades",
+        "sku": "CA563",
+        "precio": 72091,
+        "precioDesc": 68999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 40826.7083,
+                    "installment_value_cents": 4082670.83,
+                    "interest": 0.1834,
+                    "total_value": 81653.4166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 22999.666666667,
+                    "installment_value_cents": 2299966.6666667,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 11499.833333333,
+                    "installment_value_cents": 1149983.3333333,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 7666.5555555556,
+                    "installment_value_cents": 766655.55555556,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 5749.9166666667,
+                    "installment_value_cents": 574991.66666667,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-forte-compatible-nespresso-x-60-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6622a0846d9a6-b9ad74c9a8ece48f2d17151046554251-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Tradizionale Compatible Nespresso X 10 Unidades",
+        "sku": "CA501",
+        "precio": 12016,
+        "precioDesc": 11499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 6803.9583,
+                    "installment_value_cents": 680395.83,
+                    "interest": 0.1834,
+                    "total_value": 13607.9166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 3833,
+                    "installment_value_cents": 383300,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 1916.5,
+                    "installment_value_cents": 191650,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 1277.6666666667,
+                    "installment_value_cents": 127766.66666667,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 958.25,
+                    "installment_value_cents": 95825,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-tradizionale-compatible-nespresso-x-10-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6644cdac48932-e8c69f0465e34bacf517157853308943-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Grosso Compatible Nespresso X 60 Unidades",
+        "sku": "CA567",
+        "precio": 72091,
+        "precioDesc": 68999,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 40826.7083,
+                    "installment_value_cents": 4082670.83,
+                    "interest": 0.1834,
+                    "total_value": 81653.4166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 22999.666666667,
+                    "installment_value_cents": 2299966.6666667,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 11499.833333333,
+                    "installment_value_cents": 1149983.3333333,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 7666.5555555556,
+                    "installment_value_cents": 766655.55555556,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 5749.9166666667,
+                    "installment_value_cents": 574991.66666667,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 68999,
+                    "installment_value_cents": 6899900,
+                    "interest": 0,
+                    "total_value": 68999,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-grosso-compatible-nespresso-x-60-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_626989fdba0a7-99d17c2c1526f7044217151045109394-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Forte Compatible Nespresso X 30 Unidades",
+        "sku": "CA533",
+        "precio": 36046,
+        "precioDesc": 34499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 20413.0583,
+                    "installment_value_cents": 2041305.83,
+                    "interest": 0.1834,
+                    "total_value": 40826.1166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 11499.666666667,
+                    "installment_value_cents": 1149966.6666667,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 5749.8333333333,
+                    "installment_value_cents": 574983.33333333,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 3833.2222222222,
+                    "installment_value_cents": 383322.22222222,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 2874.9166666667,
+                    "installment_value_cents": 287491.66666667,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-forte-compatible-nespresso-x-30-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6644e961235f2-6b8a75a85a77680c5c17157930784145-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Grosso Compatible Nespresso X 10 Unidades",
+        "sku": "CA507",
+        "precio": 12016,
+        "precioDesc": 11499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 6803.9583,
+                    "installment_value_cents": 680395.83,
+                    "interest": 0.1834,
+                    "total_value": 13607.9166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 3833,
+                    "installment_value_cents": 383300,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 1916.5,
+                    "installment_value_cents": 191650,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 1277.6666666667,
+                    "installment_value_cents": 127766.66666667,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 958.25,
+                    "installment_value_cents": 95825,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-grosso-compatible-nespresso-x-10-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_6269895ea8f89-86c86979c51b8aa90717151048043013-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Forte Compatible Nespresso X 10 Unidades",
+        "sku": "CA503",
+        "precio": 12016,
+        "precioDesc": 11499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 6803.9583,
+                    "installment_value_cents": 680395.83,
+                    "interest": 0.1834,
+                    "total_value": 13607.9166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 3833,
+                    "installment_value_cents": 383300,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 1916.5,
+                    "installment_value_cents": 191650,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 1277.6666666667,
+                    "installment_value_cents": 127766.66666667,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 958.25,
+                    "installment_value_cents": 95825,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 11499,
+                    "installment_value_cents": 1149900,
+                    "interest": 0,
+                    "total_value": 11499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-forte-compatible-nespresso-x-10-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_662151e30f342-1ddeb67a9027f46a6017150268766075-1024-1024.webp"
+    },
+    {
+        "nombre": "Capsulas Macchiato Grosso Compatible Nespresso X 30 Unidades",
+        "sku": "CA537",
+        "precio": 36046,
+        "precioDesc": 34499,
+        "metodosPago": {
+            "Mercado Pago": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "2": {
+                    "installment_value": 20413.0583,
+                    "installment_value_cents": 2041305.83,
+                    "interest": 0.1834,
+                    "total_value": 40826.1166,
+                    "without_interests": false
+                },
+                "3": {
+                    "installment_value": 11499.666666667,
+                    "installment_value_cents": 1149966.6666667,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "6": {
+                    "installment_value": 5749.8333333333,
+                    "installment_value_cents": 574983.33333333,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "9": {
+                    "installment_value": 3833.2222222222,
+                    "installment_value_cents": 383322.22222222,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                },
+                "12": {
+                    "installment_value": 2874.9166666667,
+                    "installment_value_cents": 287491.66666667,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            },
+            "Nave": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            },
+            "Pagos Personalizados": {
+                "1": {
+                    "installment_value": 34499,
+                    "installment_value_cents": 3449900,
+                    "interest": 0,
+                    "total_value": 34499,
+                    "without_interests": true
+                }
+            }
+        },
+        "categoria": "alimentos-y-bebidas",
+        "url": "https://www.emoodmarket.com/productos/capsulas-macchiato-grosso-compatible-nespresso-x-30-unidades/",
+        "imagen": "//acdn.mitiendanube.com/stores/004/429/908/products/185_626989f93c4e8-146a0bae3888a36c4e17151044878252-1024-1024.webp"
+    }
+]
