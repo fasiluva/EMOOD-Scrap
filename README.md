@@ -6,8 +6,6 @@ Un programa hecho en Python que scrapea la tienda virtual [EMOOD](https://www.em
 
 Este proyecto scrapea los datos de los productos de la página por categoría y los guarda en archivos `.json`. Consiste en 2 etapas: extracción y refinado. Se verán en detalle cada una de ellas en las siguientes secciones.
 
-## Comenzando
-
 #### Dependencias
 
 * `Python 3.0` o superior
