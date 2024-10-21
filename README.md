@@ -21,7 +21,7 @@ Este proyecto scrapea los datos de los productos de la página por categoría y 
 
 ### Layout del proyecto 
 
-![Ubicación de los archivos en el directorio](https://github.com/fasiluva/EMOOD-Scrap/blob/main/assets/raw_data_example.png?raw=true)
+![Ubicación de los archivos en el directorio](https://github.com/fasiluva/EMOOD-Scrap/blob/main/assets/Layout.jpg)
 
 * `scraper.py`: contiene las funciones de scrapeo de la página.
 * `refiner.py`: contiene las funciones de refinado de los datos de la página.
