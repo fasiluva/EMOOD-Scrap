@@ -1,91 +1,103 @@
-# from pprint import pprint
-import json
-from time import sleep, perf_counter
-import requests
-from bs4 import BeautifulSoup
+# Programa hecho por Valentin Sosa, vea mas de mis trabajos en:
+# GitHub: https://github.com/fasiluva 
+# Linkedin: https://www.linkedin.com/in/valentin-sosa-aa55a9294/.
+# Todos los derechos de este codigo estan reservados!
+
+from json import loads, dump  
+from time import sleep  
+from requests import Session  
+from bs4 import BeautifulSoup  
 import sys
-import os 
+import os
 sys.path.append(os.path.abspath('..'))
-from data.headers import request_data
-from data.categories import categories
+from data.headers import request_data  
+from data.categories import categories  
 
-
-def scrap_all() -> None:
+def scrap_all(limit: int = 50) -> None:
     """
-    <h4> Scrapea todos los datos de la pagina, categoria por categoria. </h4> 
+    Scrapea todos los datos de la página, categoría por categoría.
+
+    Este método recorre todas las categorías especificadas y las scrapea usando la función :func:`scrap_category`.
+
+    Argumentos:
+    - **limit** (*int*): El límite de productos a cargar por cada página. Valor por defecto: 50.
     
-    * Usada en <code>code/refiner.py</code>
+    Detalles de implementación:
+    - Los *headers* requeridos para hacer la solicitud HTTP se obtienen de ``data/headers.py``.
+    - El número máximo de páginas a cargar por categoría está limitado a 500.
+    - Se utiliza una sesión persistente para manejar las cookies del sitio web y optimizar las peticiones HTTP.
     """
 
-    headers = request_data                  # Los headers estan en data/headers.py
-    max_pages = 500                         # Maximo de paginas a cargar. Por defecto, 500.
-    limit = 50                              # Maximo de elementos por pagina. Por defecto, 12.
-
-    session = requests.Session()            
-    # Nos provee la cookie y una conexion persistente con la pagina 
-    #! (obligatorio para moverse por paginaciones)
+    headers = request_data
+    session = Session()  
     
     for category in categories:
-        scrap_category(category, session, max_pages, headers, limit)
+        scrap_category(category, session, headers, limit)
     
     session.close()
+    return
 
 
-def scrap_category(category : str, 
-                   session : requests.Session, 
-                   max_pages : int, 
-                   headers : dict,
-                   limit : int) -> None:
+def scrap_category(category: str, session: Session, headers: dict, limit: int, max_pages: int=500) -> None:
     """
-    <h4> Scrapea la categoria pasada como argumento hasta agotar sus productos o hasta la paginacion <code>max_pages</code>.<h4>
-    
-    * Usada en <code>code/scraper.py</code>
+    Scrapea la categoría pasada como argumento hasta agotar sus productos o hasta alcanzar la paginación `max_pages`.
+
+    Argumentos:
+    - category (str): La categoría a scrapear.
+    - session (Session): Sesión HTTP persistente para hacer las solicitudes.
+    - headers (dict): Headers HTTP necesarios para la solicitud.
+    - limit (int): Límite de productos por página.
+    - max_pages (int): Número máximo de páginas a scrapear (por defecto 500).
+
+    Detalles de implementación:
+    - La URL de cada página se construye en función de la categoría y el número de página.
+    - Si una solicitud HTTP falla, se muestra un mensaje de error y se detiene el scraping de la categoría.
+    - Los productos scrapeados se almacenan en `../data/raw_data/rd_{category}.json`.
+    - Pausa de 2 segundos entre solicitudes para evitar sobrecargar el servidor.
+    - Si la página no tiene contenido, el scraping termina.
     """
 
     all_products = []
-    # Esta lista (tratada como una pila) sera escrita en el file al finalizar el scrapeo de la categoria.
+
+    print("\nCategoria: ", category)
+
+    for page in range(1, max_pages):
+        url = f"https://www.emoodmarket.com/{category}/page/{page}/?results_only=true&limit={limit}"
+        response = session.get(url, headers=headers)
+
+        if response.status_code != 200:
+            print("\nERROR: Request denegada. Estado: ", response.status_code)
+            s = input()
+            return     
+
+        soup = BeautifulSoup(response.text, 'html.parser')
+
+        if soup.text == "":
+            break
+
+        for div_product_container in soup.select('div.js-product-container'):
+            data = {}
+
+            data_variants = loads(div_product_container['data-variants'])  
+            data_variants = data_variants[0]
+            
+            link = div_product_container.select_one('a.item-link')
+            title_product = link['title']
+            url = link['href']
+            
+            data_variants["url"] = url
+            data[title_product] = data_variants  
+            
+            all_products.insert(0, data)  
+
+        print(f"\n\nPAGINA {page}\n\n")
+
+        sleep(2) 
 
     with open(f'../data/raw_data/rd_{category}.json', 'w') as file:
-        print("\nCategoria: ", category)
-
-        for page in range(1, max_pages):
-            url = f"https://www.emoodmarket.com/{category}/page/{page}/?results_only=true&limit={limit}"
-            response = session.get(url, headers=headers)
-
-            if response.status_code != 200:
-                print("\nERROR: Request denegada. Estado: ", response.status_code)
-                s = input()
-                return     
-
-            soup = BeautifulSoup(response.text, 'html.parser')
-
-            if soup.text == "":
-                break
-
-            for div_product_container in soup.select('div.js-product-container'):
-                datos = {}
-                data_variants = json.loads(div_product_container['data-variants'])
-                data_variants = data_variants[0]
-                link = div_product_container.select_one('a.item-link')
-                title_product = link['title']
-                url = link['href']
-                
-                data_variants["url"] = url
-                datos[title_product] = data_variants
-                all_products.insert(0, datos)           # Agregar el producto al inicio de la lista
-                
-                # print(title_product)
-                # print(datos)
-
-            print(f"\n\nPAGINA {page}\n\n")
-            sleep(2)
-
-        # Guardar todos los productos como un solo objeto JSON (lista de productos)
-        json.dump(all_products, file, indent=4)
+        dump(all_products, file, indent=4) 
 
     return
-
-scrap_all()
 
 # Para limit=70 tomo 2.3 minutos
 # Para limit=12 (default) tomo 9.8 minutos 

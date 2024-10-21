@@ -10435,7 +10435,7 @@
             "compare_at_price_short": "$487.349,00",
             "compare_at_price_long": "$487.349,00 ARS",
             "compare_at_price_number": 487349,
-            "stock": 3,
+            "stock": 2,
             "sku": "GARDEN394",
             "available": true,
             "contact": false,
@@ -10735,7 +10735,7 @@
             "compare_at_price_short": "$106.649,00",
             "compare_at_price_long": "$106.649,00 ARS",
             "compare_at_price_number": 106649,
-            "stock": 5,
+            "stock": 4,
             "sku": "ME-TDP-RBT",
             "available": true,
             "contact": false,
@@ -11922,31 +11922,6 @@
             "image_url": "//acdn.mitiendanube.com/stores/004/429/908/products/185_670d9f7dd060b-fcf3e6eef26f65433e17289474759266-1024-1024.webp",
             "installments_data": "{\"Mercado Pago\":{\"1\":{\"installment_value\":13179,\"installment_value_cents\":1317900,\"interest\":0,\"total_value\":13179,\"without_interests\":true},\"2\":{\"installment_value\":7798.0143,\"installment_value_cents\":779801.43,\"interest\":0.1834,\"total_value\":15596.0286,\"without_interests\":false},\"3\":{\"installment_value\":4393,\"installment_value_cents\":439300,\"interest\":0,\"total_value\":13179,\"without_interests\":true},\"6\":{\"installment_value\":2196.5,\"installment_value_cents\":219650,\"interest\":0,\"total_value\":13179,\"without_interests\":true},\"9\":{\"installment_value\":1464.3333333333,\"installment_value_cents\":146433.33333333,\"interest\":0,\"total_value\":13179,\"without_interests\":true},\"12\":{\"installment_value\":1098.25,\"installment_value_cents\":109825,\"interest\":0,\"total_value\":13179,\"without_interests\":true}},\"Nave\":{\"1\":{\"installment_value\":13179,\"installment_value_cents\":1317900,\"interest\":0,\"total_value\":13179,\"without_interests\":true}},\"Pagos Personalizados\":{\"1\":{\"installment_value\":13179,\"installment_value_cents\":1317900,\"interest\":0,\"total_value\":13179,\"without_interests\":true}}}",
             "url": "https://www.emoodmarket.com/productos/caramelera-de-vidrio-13-8x15-cm-transparente/"
-        }
-    },
-    {
-        "Jarra De Vidrio Capacidad 2600 ml 25x14 cm": {
-            "product_id": 214016857,
-            "price_short": "$32.659,00",
-            "price_long": "$32.659,00 ARS",
-            "price_number": 32659,
-            "price_number_raw": 3265900,
-            "price_with_payment_discount_short": "$27.760,15",
-            "compare_at_price_short": "$44.090,00",
-            "compare_at_price_long": "$44.090,00 ARS",
-            "compare_at_price_number": 44090,
-            "stock": 72,
-            "sku": "999_292_600651",
-            "available": true,
-            "contact": false,
-            "option0": null,
-            "option1": null,
-            "option2": null,
-            "id": 936939646,
-            "image": 657077920,
-            "image_url": "//acdn.mitiendanube.com/stores/004/429/908/products/185_670d9f6708cd5-db20f2a763bab5245a17289474982969-1024-1024.webp",
-            "installments_data": "{\"Mercado Pago\":{\"1\":{\"installment_value\":32659,\"installment_value_cents\":3265900,\"interest\":0,\"total_value\":32659,\"without_interests\":true},\"2\":{\"installment_value\":19324.3303,\"installment_value_cents\":1932433.03,\"interest\":0.1834,\"total_value\":38648.6606,\"without_interests\":false},\"3\":{\"installment_value\":10886.333333333,\"installment_value_cents\":1088633.3333333,\"interest\":0,\"total_value\":32659,\"without_interests\":true},\"6\":{\"installment_value\":5443.1666666667,\"installment_value_cents\":544316.66666667,\"interest\":0,\"total_value\":32659,\"without_interests\":true},\"9\":{\"installment_value\":3628.7777777778,\"installment_value_cents\":362877.77777778,\"interest\":0,\"total_value\":32659,\"without_interests\":true},\"12\":{\"installment_value\":2721.5833333333,\"installment_value_cents\":272158.33333333,\"interest\":0,\"total_value\":32659,\"without_interests\":true}},\"Nave\":{\"1\":{\"installment_value\":32659,\"installment_value_cents\":3265900,\"interest\":0,\"total_value\":32659,\"without_interests\":true}},\"Pagos Personalizados\":{\"1\":{\"installment_value\":32659,\"installment_value_cents\":3265900,\"interest\":0,\"total_value\":32659,\"without_interests\":true}}}",
-            "url": "https://www.emoodmarket.com/productos/jarra-de-vidrio-capacidad-2600-ml-25x14-cm/"
         }
     },
     {
@@ -18560,7 +18535,7 @@
             "compare_at_price_short": "$249.999,00",
             "compare_at_price_long": "$249.999,00 ARS",
             "compare_at_price_number": 249999,
-            "stock": 3,
+            "stock": 2,
             "sku": "ME-DAC24D",
             "available": true,
             "contact": false,

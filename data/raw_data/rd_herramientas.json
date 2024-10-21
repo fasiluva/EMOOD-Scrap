@@ -1110,7 +1110,7 @@
             "compare_at_price_short": "$249.999,00",
             "compare_at_price_long": "$249.999,00 ARS",
             "compare_at_price_number": 249999,
-            "stock": 3,
+            "stock": 2,
             "sku": "ME-DAC24D",
             "available": true,
             "contact": false,

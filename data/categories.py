@@ -1,4 +1,5 @@
-categories = [                          # Todas las categorias de la pagina web
+# Todas las categorias de la pagina web
+categories = [                          
         "electrodomesticos", 
         "tecnologia", 
         "electronica-audio-video",
